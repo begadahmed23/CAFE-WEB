@@ -1,0 +1,39 @@
+item_id,item_name,category,size,unit_price,is_active
+M001,Espresso,Hot Coffee,Small,55,1
+M002,Espresso,Hot Coffee,Large,70,1
+M003,Americano,Hot Coffee,Small,55,1
+M004,Americano,Hot Coffee,Large,70,1
+M005,Cappuccino,Hot Coffee,Small,60,1
+M006,Cappuccino,Hot Coffee,Large,75,1
+M007,Latte,Hot Coffee,Small,80,1
+M008,Latte,Hot Coffee,Large,100,1
+M009,Spanish Latte,Hot Coffee,Small,110,1
+M010,Spanish Latte,Hot Coffee,Large,130,1
+M011,Caramel Macchiato,Hot Coffee,Large,130,1
+M012,Mocha,Hot Coffee,Large,110,1
+M013,Iced Americano,Iced Coffee,Small,80,1
+M014,Iced Latte,Iced Coffee,Small,90,1
+M015,Iced Latte,Iced Coffee,Large,110,1
+M016,Iced Spanish Latte,Iced Coffee,Large,120,1
+M017,Iced Caramel Macchiato,Iced Coffee,Small,110,1
+M018,Iced Caramel Macchiato,Iced Coffee,Large,130,1
+M019,Strawberry Smoothie,Smoothie,NA,100,1
+M020,Blueberry Smoothie,Smoothie,NA,100,1
+M021,Passion Fruit Smoothie,Smoothie,NA,100,1
+M022,Blue Sky Smoothie,Smoothie,NA,120,1
+M023,Chocolate Shake,Shake,NA,130,1
+M024,Vanilla Shake,Shake,NA,110,1
+M025,Lotus Shake,Shake,NA,150,1
+M026,Pistachio Shake,Shake,NA,150,1
+M027,Dark Chocolate,Chocolate,Small,90,1
+M028,Dark Chocolate,Chocolate,Large,100,1
+M029,White Chocolate,Chocolate,Small,90,1
+M030,White Chocolate,Chocolate,Large,100,1
+M031,San Sebastian Cheesecake,Dessert,NA,150,1
+M032,Red Velvet Cake,Dessert,NA,130,1
+M033,Brownies,Dessert,NA,100,1
+M034,Plain Croissant,Bakery,NA,60,1
+M035,Turkey Croissant,Bakery,NA,100,1
+M036,Quattro Cheese Croissant,Bakery,NA,100,1
+M037,Turkey Sandwich,Sandwich,NA,120,1
+M038,Chicken Pesto Sandwich,Sandwich,NA,140,1

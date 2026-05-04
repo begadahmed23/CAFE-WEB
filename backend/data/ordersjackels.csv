@@ -1,0 +1,1936 @@
+order_id,order_date,order_time,total_amount,tax,payment_method,order_type,order_status,day_type
+O000001,2025-11-18,22:00,376.2,46.2,card,TAKEAWAY,Completed,weekday
+O000002,2025-11-18,16:39,285.0,35.0,CASH,Dine in,Completed,weekday
+O000003,2025-11-18,12:47,114.0,14.0,card,Dine in,Completed,weekday
+O000004,2025-11-18,16:31,68.4,8.4,card,Dine in,Completed,weekday
+O000005,2025-11-18,22:12,114.0,14.0,card,Dine in,Completed,weekday
+O000006,2025-11-18,13:21,273.6,33.6,card,TAKEAWAY,Completed,weekday
+O000007,2025-11-18,12:45,524.4,64.4,CASH,Dine in,Completed,weekday
+O000008,2025-11-18,12:42,296.4,36.4,card,TAKEAWAY,Completed,weekday
+O000009,2025-11-18,22:27,114.0,14.0,CASH,Dine in,Completed,weekday
+O000010,2025-11-18,16:58,307.8,37.8,card,Dine in,Completed,weekday
+O000011,2025-11-18,22:47,285.0,35.0,CASH,Dine in,Completed,weekday
+O000012,2025-11-18,20:57,404.7,49.7,card,Dine in,Completed,weekday
+O000013,2025-11-18,15:38,421.8,51.8,,TAKEAWAY,Completed,weekday
+O000014,2025-11-18,14:37,387.6,47.6,CASH,Dine in,Completed,weekday
+O000015,2025-11-18,10:41,102.6,12.6,CASH,Dine in,Completed,weekday
+O000016,2025-11-18,14:34,364.8,44.8,CASH,TAKEAWAY,Completed,weekday
+O000017,2025-11-18,19:45,598.5,73.5,card,Dine in,Completed,weekday
+O000018,2025-11-18,13:24,125.4,15.4,card,TAKEAWAY,Completed,weekday
+O000019,2025-11-18,10:32,239.4,29.4,CASH,TAKEAWAY,Completed,weekday
+O000020,2025-11-18,13:22,273.6,33.6,card,TAKEAWAY,Completed,weekday
+O000021,2025-11-18,17:30,114.0,14.0,CASH,TAKEAWAY,Completed,weekday
+O000022,2025-11-18,21:37,661.2,81.2,CASH,TAKEAWAY,Completed,weekday
+O000023,2025-11-18,13:49,376.2,46.2,CASH,TAKEAWAY,Completed,weekday
+O000024,2025-11-18,10:10,68.4,8.4,,Dine in,Completed,weekday
+O000025,2025-11-18,19:24,364.8,44.8,CASH,Dine in,Completed,weekday
+O000026,2025-11-18,15:32,102.6,12.6,,Dine in,Completed,weekday
+O000027,2025-11-18,17:25,239.4,29.4,CASH,TAKEAWAY,Completed,weekday
+O000028,2025-11-18,13:02,114.0,14.0,CASH,TAKEAWAY,Completed,weekday
+O000029,2025-11-18,19:28,119.7,14.7,CASH,Dine in,Completed,weekday
+O000030,2025-11-18,10:23,490.2,60.2,card,Dine in,Completed,weekday
+O000031,2025-11-18,11:05,285.0,35.0,CASH,Dine in,Completed,weekday
+O000032,2025-11-18,17:43,296.4,36.4,CASH,Dine in,Completed,weekday
+O000033,2025-11-18,20:04,467.4,57.4,card,Dine in,Completed,weekday
+O000034,2025-11-18,16:10,490.2,60.2,card,Dine in,Completed,weekday
+O000035,2025-11-18,13:32,273.6,33.6,card,TAKEAWAY,Completed,weekday
+O000036,2025-11-18,13:43,535.8,65.8,card,TAKEAWAY,Completed,weekday
+O000037,2025-11-18,20:47,433.2,53.2,card,,Completed,weekday
+O000038,2025-11-18,13:25,433.2,53.2,card,TAKEAWAY,Completed,weekday
+O000039,2025-11-18,20:47,421.8,51.8,card,Dine in,Completed,weekday
+O000040,2025-11-19,20:27,296.4,36.4,CASH,TAKEAWAY,Completed,weekday
+O000041,2025-11-19,13:02,159.6,19.6,CASH,TAKEAWAY,Completed,weekday
+O000042,2025-11-19,16:02,353.4,43.4,,TAKEAWAY,Completed,weekday
+O000043,2025-11-19,12:31,478.8,58.8,,TAKEAWAY,Completed,weekday
+O000044,2025-11-19,14:48,193.8,23.8,card,TAKEAWAY,Completed,weekday
+O000045,2025-11-19,11:47,421.8,51.8,,Dine in,Completed,weekday
+O000046,2025-11-19,18:13,456.0,56.0,card,TAKEAWAY,Completed,weekday
+O000047,2025-11-19,10:16,273.6,33.6,CASH,Dine in,Completed,weekday
+O000048,2025-11-19,10:46,581.4,71.4,card,TAKEAWAY,Completed,weekday
+O000049,2025-11-19,20:41,706.8,86.8,CASH,Dine in,Completed,weekday
+O000050,2025-11-19,12:10,273.6,33.6,card,TAKEAWAY,Completed,weekday
+O000051,2025-11-19,19:10,342.0,42.0,card,,Completed,weekday
+O000052,2025-11-19,16:07,296.4,36.4,card,Dine in,Completed,weekday
+O000053,2025-11-19,22:52,102.6,12.6,card,,Completed,weekday
+O000054,2025-11-19,19:31,399.0,49.0,card,TAKEAWAY,Completed,weekday
+O000055,2025-11-19,15:23,444.6,54.6,,TAKEAWAY,Completed,weekday
+O000056,2025-11-19,11:17,68.4,8.4,CASH,Dine in,Completed,weekday
+O000057,2025-11-19,18:44,353.4,43.4,card,TAKEAWAY,Completed,weekday
+O000058,2025-11-19,22:58,296.4,36.4,card,TAKEAWAY,Completed,weekday
+O000059,2025-11-19,13:47,342.0,42.0,CASH,TAKEAWAY,Completed,weekday
+O000060,2025-11-19,17:09,114.0,14.0,CASH,TAKEAWAY,Completed,weekday
+O000061,2025-11-19,10:15,96.9,11.9,CASH,TAKEAWAY,Completed,weekday
+O000062,2025-11-19,22:47,68.4,8.4,card,,Completed,weekday
+O000063,2025-11-19,17:41,421.8,51.8,card,Dine in,Completed,weekday
+O000064,2025-11-19,12:29,148.2,18.2,card,,Completed,weekday
+O000065,2025-11-19,14:41,467.4,57.4,CASH,TAKEAWAY,Completed,weekday
+O000066,2025-11-19,14:29,296.4,36.4,,TAKEAWAY,Completed,weekday
+O000067,2025-11-19,14:50,114.0,14.0,card,Dine in,Completed,weekday
+O000068,2025-11-19,10:51,250.8,30.8,card,Dine in,Completed,weekday
+O000069,2025-11-19,21:10,273.6,33.6,card,Dine in,Completed,weekday
+O000070,2025-11-19,14:47,228.0,28.0,card,Dine in,Completed,weekday
+O000071,2025-11-19,17:29,433.2,53.2,card,Dine in,Completed,weekday
+O000072,2025-11-19,12:52,273.6,33.6,card,Dine in,Completed,weekday
+O000073,2025-11-19,20:56,296.4,36.4,card,TAKEAWAY,Completed,weekday
+O000074,2025-11-19,22:28,285.0,35.0,CASH,TAKEAWAY,Completed,weekday
+O000075,2025-11-19,12:10,319.2,39.2,CASH,TAKEAWAY,Completed,weekday
+O000076,2025-11-19,11:41,501.6,61.6,,Dine in,Completed,weekday
+O000077,2025-11-19,15:20,353.4,43.4,CASH,TAKEAWAY,Completed,weekday
+O000078,2025-11-19,18:57,136.8,16.8,,Dine in,Completed,weekday
+O000079,2025-11-20,18:38,1390.8,170.8,card,TAKEAWAY,Completed,Weekend
+O000080,2025-11-20,19:12,615.6,75.6,card,TAKEAWAY,Completed,Weekend
+O000081,2025-11-20,21:16,900.6,110.6,CASH,TAKEAWAY,Completed,Weekend
+O000082,2025-11-20,22:30,609.9,74.9,card,Dine in,Completed,Weekend
+O000083,2025-11-20,20:43,615.6,75.6,card,Dine in,Completed,Weekend
+O000084,2025-11-20,23:03,513.0,63.0,CASH,Dine in,Completed,Weekend
+O000085,2025-11-20,22:47,638.4,78.4,CASH,Dine in,Completed,Weekend
+O000086,2025-11-20,20:50,934.8,114.8,CASH,TAKEAWAY,Completed,Weekend
+O000087,2025-11-20,19:47,627.0,77.0,card,Dine in,Completed,Weekend
+O000088,2025-11-20,21:59,837.9,102.9,CASH,Dine in,Completed,Weekend
+O000089,2025-11-20,19:05,490.2,60.2,CASH,Dine in,Completed,Weekend
+O000090,2025-11-20,23:35,832.2,102.2,CASH,TAKEAWAY,Completed,Weekend
+O000091,2025-11-20,21:52,741.0,91.0,CASH,Dine in,Completed,Weekend
+O000092,2025-11-20,22:15,627.0,77.0,CASH,Dine in,Completed,Weekend
+O000093,2025-11-20,23:58,547.2,67.2,card,,Completed,Weekend
+O000094,2025-11-20,20:55,649.8,79.8,card,Dine in,Completed,Weekend
+O000095,2025-11-20,19:33,775.2,95.2,CASH,TAKEAWAY,Completed,Weekend
+O000096,2025-11-20,19:33,649.8,79.8,CASH,TAKEAWAY,Completed,Weekend
+O000097,2025-11-20,19:19,672.6,82.6,CASH,Dine in,Completed,Weekend
+O000098,2025-11-20,19:41,912.0,112.0,card,Dine in,Completed,Weekend
+O000099,2025-11-20,20:36,444.6,54.6,card,,Completed,Weekend
+O000100,2025-11-20,22:53,558.6,68.6,card,Dine in,Completed,Weekend
+O000101,2025-11-20,18:01,860.7,105.7,card,TAKEAWAY,Completed,Weekend
+O000102,2025-11-20,22:19,513.0,63.0,card,TAKEAWAY,Completed,Weekend
+O000103,2025-11-20,20:03,752.4,92.4,card,,Completed,Weekend
+O000104,2025-11-20,22:56,421.8,51.8,,TAKEAWAY,Completed,Weekend
+O000105,2025-11-20,20:09,741.0,91.0,CASH,Dine in,Completed,Weekend
+O000106,2025-11-20,23:23,501.6,61.6,card,TAKEAWAY,Completed,Weekend
+O000107,2025-11-20,19:18,524.4,64.4,card,,Completed,Weekend
+O000108,2025-11-20,21:55,695.4,85.4,card,Dine in,Completed,Weekend
+O000109,2025-11-20,18:14,444.6,54.6,card,TAKEAWAY,Completed,Weekend
+O000110,2025-11-20,19:38,433.2,53.2,CASH,Dine in,Completed,Weekend
+O000111,2025-11-20,21:55,775.2,95.2,CASH,Dine in,Completed,Weekend
+O000112,2025-11-20,18:15,843.6,103.6,CASH,Dine in,Completed,Weekend
+O000113,2025-11-20,21:33,741.0,91.0,card,Dine in,Completed,Weekend
+O000114,2025-11-20,20:38,701.1,86.1,CASH,TAKEAWAY,Completed,Weekend
+O000115,2025-11-20,18:45,877.8,107.8,CASH,TAKEAWAY,Completed,Weekend
+O000116,2025-11-20,19:05,581.4,71.4,card,Dine in,Completed,Weekend
+O000117,2025-11-20,18:31,364.8,44.8,CASH,Dine in,Completed,Weekend
+O000118,2025-11-20,22:54,1265.4,155.4,CASH,TAKEAWAY,Completed,Weekend
+O000119,2025-11-20,22:17,552.9,67.9,CASH,TAKEAWAY,Completed,Weekend
+O000120,2025-11-20,19:18,444.6,54.6,CASH,TAKEAWAY,Completed,Weekend
+O000121,2025-11-20,20:27,752.4,92.4,CASH,Dine in,Completed,Weekend
+O000122,2025-11-20,18:16,336.3,41.3,CASH,TAKEAWAY,Completed,Weekend
+O000123,2025-11-20,18:08,974.7,119.7,CASH,Dine in,Completed,Weekend
+O000124,2025-11-20,19:34,239.4,29.4,CASH,TAKEAWAY,Completed,Weekend
+O000125,2025-11-20,21:00,929.1,114.1,CASH,Dine in,Completed,Weekend
+O000126,2025-11-20,19:05,182.4,22.4,CASH,Dine in,Completed,Weekend
+O000127,2025-11-20,18:54,752.4,92.4,CASH,Dine in,Completed,Weekend
+O000128,2025-11-20,22:23,826.5,101.5,,Dine in,Completed,Weekend
+O000129,2025-11-20,20:15,495.9,60.9,,TAKEAWAY,Completed,Weekend
+O000130,2025-11-20,20:14,513.0,63.0,card,Dine in,Completed,Weekend
+O000131,2025-11-20,18:36,564.3,69.3,card,Dine in,Completed,Weekend
+O000132,2025-11-20,20:26,883.5,108.5,CASH,TAKEAWAY,Completed,Weekend
+O000133,2025-11-20,21:55,957.6,117.6,card,Dine in,Completed,Weekend
+O000134,2025-11-20,21:00,604.2,74.2,card,TAKEAWAY,Completed,Weekend
+O000135,2025-11-20,18:20,444.6,54.6,card,Dine in,Completed,Weekend
+O000136,2025-11-20,18:00,855.0,105.0,CASH,Dine in,Completed,Weekend
+O000137,2025-11-20,22:34,427.5,52.5,CASH,Dine in,Completed,Weekend
+O000138,2025-11-20,23:19,963.3,118.3,CASH,TAKEAWAY,Completed,Weekend
+O000139,2025-11-20,21:14,689.7,84.7,card,Dine in,Completed,Weekend
+O000140,2025-11-20,21:55,889.2,109.2,card,TAKEAWAY,Completed,Weekend
+O000141,2025-11-20,22:53,689.7,84.7,,TAKEAWAY,Completed,Weekend
+O000142,2025-11-20,22:49,467.4,57.4,CASH,Dine in,Completed,Weekend
+O000143,2025-11-20,18:02,655.5,80.5,,,Completed,Weekend
+O000144,2025-11-20,20:47,342.0,42.0,CASH,TAKEAWAY,Completed,Weekend
+O000145,2025-11-20,22:23,524.4,64.4,CASH,TAKEAWAY,Completed,Weekend
+O000146,2025-11-20,23:05,826.5,101.5,CASH,TAKEAWAY,Completed,Weekend
+O000147,2025-11-20,18:14,718.2,88.2,card,TAKEAWAY,Completed,Weekend
+O000148,2025-11-20,20:37,649.8,79.8,card,Dine in,Completed,Weekend
+O000149,2025-11-20,19:54,342.0,42.0,CASH,Dine in,Completed,Weekend
+O000150,2025-11-20,18:46,604.2,74.2,CASH,TAKEAWAY,Completed,Weekend
+O000151,2025-11-20,22:48,1174.2,144.2,CASH,Dine in,Completed,Weekend
+O000152,2025-11-20,20:49,986.1,121.1,card,Dine in,Completed,Weekend
+O000153,2025-11-20,23:02,872.1,107.1,CASH,TAKEAWAY,Completed,Weekend
+O000154,2025-11-20,22:08,661.2,81.2,CASH,Dine in,Completed,Weekend
+O000155,2025-11-20,20:19,484.5,59.5,card,TAKEAWAY,Completed,Weekend
+O000156,2025-11-20,22:45,490.2,60.2,CASH,,Completed,Weekend
+O000157,2025-11-20,23:48,581.4,71.4,,TAKEAWAY,Completed,Weekend
+O000158,2025-11-20,20:34,832.2,102.2,CASH,Dine in,Completed,Weekend
+O000159,2025-11-20,23:21,324.9,39.9,CASH,TAKEAWAY,Completed,Weekend
+O000160,2025-11-20,19:30,592.8,72.8,card,Dine in,Completed,Weekend
+O000161,2025-11-20,19:18,1208.4,148.4,CASH,Dine in,Completed,Weekend
+O000162,2025-11-20,21:47,387.6,47.6,card,TAKEAWAY,Completed,Weekend
+O000163,2025-11-20,19:51,638.4,78.4,card,TAKEAWAY,Completed,Weekend
+O000164,2025-11-20,18:07,307.8,37.8,card,Dine in,Completed,Weekend
+O000165,2025-11-20,18:29,513.0,63.0,card,Dine in,Completed,Weekend
+O000166,2025-11-20,20:24,581.4,71.4,card,Dine in,Completed,Weekend
+O000167,2025-11-20,19:06,1254.0,154.0,CASH,Dine in,Completed,Weekend
+O000168,2025-11-20,23:53,809.4,99.4,CASH,TAKEAWAY,Completed,Weekend
+O000169,2025-11-20,22:23,535.8,65.8,card,TAKEAWAY,Completed,Weekend
+O000170,2025-11-20,19:26,889.2,109.2,CASH,TAKEAWAY,Completed,Weekend
+O000171,2025-11-20,21:04,798.0,98.0,CASH,,Completed,Weekend
+O000172,2025-11-20,23:31,524.4,64.4,card,Dine in,Completed,Weekend
+O000173,2025-11-20,20:00,843.6,103.6,,Dine in,Completed,Weekend
+O000174,2025-11-20,21:22,530.1,65.1,CASH,TAKEAWAY,Completed,Weekend
+O000175,2025-11-20,18:11,456.0,56.0,,Dine in,Completed,Weekend
+O000176,2025-11-20,21:12,581.4,71.4,card,TAKEAWAY,Completed,Weekend
+O000177,2025-11-20,22:24,649.8,79.8,card,TAKEAWAY,Completed,Weekend
+O000178,2025-11-20,18:36,763.8,93.8,CASH,Dine in,Completed,Weekend
+O000179,2025-11-20,19:05,951.9,116.9,card,TAKEAWAY,Completed,Weekend
+O000180,2025-11-21,23:16,1516.2,186.2,card,Dine in,Completed,Weekend
+O000181,2025-11-21,19:32,627.0,77.0,card,Dine in,Completed,Weekend
+O000182,2025-11-21,20:25,1111.5,136.5,CASH,TAKEAWAY,Completed,Weekend
+O000183,2025-11-21,22:13,564.3,69.3,card,Dine in,Completed,Weekend
+O000184,2025-11-21,20:21,1071.6,131.6,card,Dine in,Completed,Weekend
+O000185,2025-11-21,21:05,900.6,110.6,CASH,Dine in,Completed,Weekend
+O000186,2025-11-21,22:56,598.5,73.5,CASH,,Completed,Weekend
+O000187,2025-11-21,20:27,307.8,37.8,CASH,,Completed,Weekend
+O000188,2025-11-21,22:56,513.0,63.0,CASH,TAKEAWAY,Completed,Weekend
+O000189,2025-11-21,21:55,1265.4,155.4,,Dine in,Completed,Weekend
+O000190,2025-11-21,20:10,444.6,54.6,card,Dine in,Completed,Weekend
+O000191,2025-11-21,19:43,701.1,86.1,CASH,Dine in,Completed,Weekend
+O000192,2025-11-21,22:40,900.6,110.6,CASH,Dine in,Completed,Weekend
+O000193,2025-11-21,20:39,330.6,40.6,CASH,Dine in,Completed,Weekend
+O000194,2025-11-21,20:10,279.3,34.3,CASH,TAKEAWAY,Completed,Weekend
+O000195,2025-11-21,18:48,843.6,103.6,CASH,Dine in,Completed,Weekend
+O000196,2025-11-21,22:50,1168.5,143.5,card,TAKEAWAY,Completed,Weekend
+O000197,2025-11-21,22:20,307.8,37.8,card,Dine in,Completed,Weekend
+O000198,2025-11-21,20:16,330.6,40.6,CASH,Dine in,Completed,Weekend
+O000199,2025-11-21,20:46,746.7,91.7,card,TAKEAWAY,Completed,Weekend
+O000200,2025-11-21,20:14,929.1,114.1,CASH,TAKEAWAY,Completed,Weekend
+O000201,2025-11-21,21:11,1755.6,215.6,card,Dine in,Completed,Weekend
+O000202,2025-11-21,21:24,552.9,67.9,CASH,Dine in,Completed,Weekend
+O000203,2025-11-21,19:55,666.9,81.9,CASH,TAKEAWAY,Completed,Weekend
+O000204,2025-11-21,18:30,581.4,71.4,card,Dine in,Completed,Weekend
+O000205,2025-11-21,21:00,364.8,44.8,CASH,Dine in,Completed,Weekend
+O000206,2025-11-21,22:04,695.4,85.4,card,,Completed,Weekend
+O000207,2025-11-21,19:20,330.6,40.6,CASH,TAKEAWAY,Completed,Weekend
+O000208,2025-11-21,22:24,946.2,116.2,CASH,TAKEAWAY,Completed,Weekend
+O000209,2025-11-21,19:46,581.4,71.4,CASH,TAKEAWAY,Completed,Weekend
+O000210,2025-11-21,20:08,889.2,109.2,CASH,Dine in,Completed,Weekend
+O000211,2025-11-21,21:33,661.2,81.2,CASH,Dine in,Completed,Weekend
+O000212,2025-11-21,23:31,1254.0,154.0,CASH,TAKEAWAY,Completed,Weekend
+O000213,2025-11-21,20:30,1926.6,236.6,CASH,TAKEAWAY,Completed,Weekend
+O000214,2025-11-21,20:28,786.6,96.6,card,TAKEAWAY,Completed,Weekend
+O000215,2025-11-21,22:34,849.3,104.3,CASH,Dine in,Completed,Weekend
+O000216,2025-11-21,23:02,763.8,93.8,card,Dine in,Completed,Weekend
+O000217,2025-11-21,19:09,763.8,93.8,card,TAKEAWAY,Completed,Weekend
+O000218,2025-11-21,22:40,541.5,66.5,CASH,TAKEAWAY,Completed,Weekend
+O000219,2025-11-21,18:21,969.0,119.0,CASH,Dine in,Completed,Weekend
+O000220,2025-11-21,22:39,820.8,100.8,CASH,,Completed,Weekend
+O000221,2025-11-21,20:35,421.8,51.8,card,TAKEAWAY,Completed,Weekend
+O000222,2025-11-21,22:20,456.0,56.0,card,TAKEAWAY,Completed,Weekend
+O000223,2025-11-21,19:18,456.0,56.0,card,TAKEAWAY,Completed,Weekend
+O000224,2025-11-21,20:09,769.5,94.5,CASH,Dine in,Completed,Weekend
+O000225,2025-11-21,20:05,638.4,78.4,,,Completed,Weekend
+O000226,2025-11-21,19:12,718.2,88.2,card,TAKEAWAY,Completed,Weekend
+O000227,2025-11-21,21:33,501.6,61.6,CASH,Dine in,Completed,Weekend
+O000228,2025-11-21,23:20,929.1,114.1,card,TAKEAWAY,Completed,Weekend
+O000229,2025-11-21,18:20,507.3,62.3,card,TAKEAWAY,Completed,Weekend
+O000230,2025-11-21,20:31,484.5,59.5,card,Dine in,Completed,Weekend
+O000231,2025-11-21,19:51,1014.6,124.6,CASH,Dine in,Completed,Weekend
+O000232,2025-11-21,21:11,997.5,122.5,CASH,Dine in,Completed,Weekend
+O000233,2025-11-21,22:06,558.6,68.6,CASH,TAKEAWAY,Completed,Weekend
+O000234,2025-11-21,21:17,638.4,78.4,CASH,TAKEAWAY,Completed,Weekend
+O000235,2025-11-21,21:17,535.8,65.8,CASH,TAKEAWAY,Completed,Weekend
+O000236,2025-11-21,18:56,433.2,53.2,CASH,TAKEAWAY,Completed,Weekend
+O000237,2025-11-21,20:42,399.0,49.0,card,TAKEAWAY,Completed,Weekend
+O000238,2025-11-21,18:09,535.8,65.8,CASH,TAKEAWAY,Completed,Weekend
+O000239,2025-11-21,21:31,1014.6,124.6,card,Dine in,Completed,Weekend
+O000240,2025-11-21,19:01,587.1,72.1,CASH,TAKEAWAY,Completed,Weekend
+O000241,2025-11-21,20:20,433.2,53.2,card,TAKEAWAY,Completed,Weekend
+O000242,2025-11-21,20:18,592.8,72.8,CASH,TAKEAWAY,Completed,Weekend
+O000243,2025-11-21,23:30,894.9,109.9,card,TAKEAWAY,Completed,Weekend
+O000244,2025-11-21,20:07,1014.6,124.6,card,Dine in,Completed,Weekend
+O000245,2025-11-21,22:15,689.7,84.7,CASH,Dine in,Completed,Weekend
+O000246,2025-11-21,19:23,336.3,41.3,card,Dine in,Completed,Weekend
+O000247,2025-11-21,18:55,752.4,92.4,card,Dine in,Completed,Weekend
+O000248,2025-11-21,19:00,353.4,43.4,CASH,TAKEAWAY,Completed,Weekend
+O000249,2025-11-21,21:47,535.8,65.8,CASH,,Completed,Weekend
+O000250,2025-11-21,18:47,758.1,93.1,card,TAKEAWAY,Completed,Weekend
+O000251,2025-11-21,20:00,729.6,89.6,CASH,TAKEAWAY,Completed,Weekend
+O000252,2025-11-21,19:42,900.6,110.6,card,TAKEAWAY,Completed,Weekend
+O000253,2025-11-21,20:46,866.4,106.4,card,Dine in,Completed,Weekend
+O000254,2025-11-21,22:35,877.8,107.8,CASH,Dine in,Completed,Weekend
+O000255,2025-11-21,22:38,473.1,58.1,,Dine in,Completed,Weekend
+O000256,2025-11-21,21:54,792.3,97.3,CASH,TAKEAWAY,Completed,Weekend
+O000257,2025-11-21,19:08,478.8,58.8,card,Dine in,Completed,Weekend
+O000258,2025-11-21,19:47,250.8,30.8,card,Dine in,Completed,Weekend
+O000259,2025-11-21,20:50,376.2,46.2,,,Completed,Weekend
+O000260,2025-11-21,18:32,490.2,60.2,CASH,TAKEAWAY,Completed,Weekend
+O000261,2025-11-21,19:16,820.8,100.8,CASH,Dine in,Completed,Weekend
+O000262,2025-11-21,18:30,433.2,53.2,card,Dine in,Completed,Weekend
+O000263,2025-11-21,18:03,604.2,74.2,CASH,TAKEAWAY,Completed,Weekend
+O000264,2025-11-21,19:53,706.8,86.8,CASH,Dine in,Completed,Weekend
+O000265,2025-11-21,21:04,478.8,58.8,CASH,Dine in,Completed,Weekend
+O000266,2025-11-21,22:06,467.4,57.4,CASH,TAKEAWAY,Completed,Weekend
+O000267,2025-11-21,20:44,649.8,79.8,,TAKEAWAY,Completed,Weekend
+O000268,2025-11-21,20:54,501.6,61.6,card,Dine in,Completed,Weekend
+O000269,2025-11-21,18:54,689.7,84.7,card,TAKEAWAY,Completed,Weekend
+O000270,2025-11-21,19:11,444.6,54.6,card,TAKEAWAY,Completed,Weekend
+O000271,2025-11-21,22:23,701.1,86.1,CASH,Dine in,Completed,Weekend
+O000272,2025-11-21,23:01,513.0,63.0,card,TAKEAWAY,Completed,Weekend
+O000273,2025-11-21,22:27,991.8,121.8,,TAKEAWAY,Completed,Weekend
+O000274,2025-11-21,23:15,410.4,50.4,,TAKEAWAY,Completed,Weekend
+O000275,2025-11-21,20:45,684.0,84.0,CASH,TAKEAWAY,Completed,Weekend
+O000276,2025-11-21,18:46,638.4,78.4,card,Dine in,Completed,Weekend
+O000277,2025-11-21,20:39,735.3,90.3,CASH,TAKEAWAY,Completed,Weekend
+O000278,2025-11-21,22:47,467.4,57.4,CASH,Dine in,Completed,Weekend
+O000279,2025-11-21,22:58,615.6,75.6,,Dine in,Completed,Weekend
+O000280,2025-11-21,20:40,706.8,86.8,card,Dine in,Completed,Weekend
+O000281,2025-11-21,18:21,473.1,58.1,card,Dine in,Completed,Weekend
+O000282,2025-11-21,21:59,684.0,84.0,CASH,TAKEAWAY,Completed,Weekend
+O000283,2025-11-21,19:49,501.6,61.6,CASH,,Completed,Weekend
+O000284,2025-11-21,20:53,792.3,97.3,card,TAKEAWAY,Completed,Weekend
+O000285,2025-11-21,20:30,718.2,88.2,card,Dine in,Completed,Weekend
+O000286,2025-11-21,20:32,666.9,81.9,CASH,Dine in,Completed,Weekend
+O000287,2025-11-21,21:23,524.4,64.4,CASH,Dine in,Completed,Weekend
+O000288,2025-11-21,22:30,0.0,0.0,CASH,Dine in,Completed,Weekend
+O000289,2025-11-21,22:23,433.2,53.2,CASH,,Completed,Weekend
+O000290,2025-11-21,22:40,609.9,74.9,card,Dine in,Completed,Weekend
+O000291,2025-11-21,20:08,587.1,72.1,card,TAKEAWAY,Completed,Weekend
+O000292,2025-11-21,23:07,1105.8,135.8,,,Completed,Weekend
+O000293,2025-11-22,23:15,478.8,58.8,CASH,Dine in,Completed,Weekend
+O000294,2025-11-22,21:00,678.3,83.3,CASH,Dine in,Completed,Weekend
+O000295,2025-11-22,22:49,342.0,42.0,CASH,Dine in,Completed,Weekend
+O000296,2025-11-22,20:50,1288.2,158.2,CASH,Dine in,Completed,Weekend
+O000297,2025-11-22,22:17,501.6,61.6,card,TAKEAWAY,Completed,Weekend
+O000298,2025-11-22,20:10,1060.2,130.2,CASH,TAKEAWAY,Completed,Weekend
+O000299,2025-11-22,20:03,501.6,61.6,CASH,TAKEAWAY,Completed,Weekend
+O000300,2025-11-22,21:48,969.0,119.0,CASH,Dine in,Completed,Weekend
+O000301,2025-11-22,23:59,621.3,76.3,CASH,Dine in,Completed,Weekend
+O000302,2025-11-22,18:33,1083.0,133.0,card,Dine in,Completed,Weekend
+O000303,2025-11-22,20:59,490.2,60.2,CASH,Dine in,Completed,Weekend
+O000304,2025-11-22,21:07,627.0,77.0,CASH,TAKEAWAY,Completed,Weekend
+O000305,2025-11-22,18:40,729.6,89.6,CASH,TAKEAWAY,Completed,Weekend
+O000306,2025-11-22,20:29,547.2,67.2,card,Dine in,Completed,Weekend
+O000307,2025-11-22,21:57,678.3,83.3,card,TAKEAWAY,Completed,Weekend
+O000308,2025-11-22,20:33,501.6,61.6,card,TAKEAWAY,Completed,Weekend
+O000309,2025-11-22,19:00,820.8,100.8,card,Dine in,Completed,Weekend
+O000310,2025-11-22,21:47,695.4,85.4,,Dine in,Completed,Weekend
+O000311,2025-11-22,23:32,815.1,100.1,CASH,Dine in,Completed,Weekend
+O000312,2025-11-22,22:21,307.8,37.8,CASH,Dine in,Completed,Weekend
+O000313,2025-11-22,23:37,552.9,67.9,,TAKEAWAY,Completed,Weekend
+O000314,2025-11-22,19:14,547.2,67.2,card,TAKEAWAY,Completed,Weekend
+O000315,2025-11-22,21:48,672.6,82.6,card,Dine in,Completed,Weekend
+O000316,2025-11-22,18:50,980.4,120.4,CASH,Dine in,Completed,Weekend
+O000317,2025-11-22,20:22,410.4,50.4,card,,Completed,Weekend
+O000318,2025-11-22,22:01,649.8,79.8,CASH,Dine in,Completed,Weekend
+O000319,2025-11-22,23:14,279.3,34.3,CASH,TAKEAWAY,Completed,Weekend
+O000320,2025-11-22,21:10,729.6,89.6,CASH,,Completed,Weekend
+O000321,2025-11-22,20:13,524.4,64.4,CASH,TAKEAWAY,Completed,Weekend
+O000322,2025-11-22,21:50,632.7,77.7,card,TAKEAWAY,Completed,Weekend
+O000323,2025-11-22,22:32,946.2,116.2,card,,Completed,Weekend
+O000324,2025-11-22,23:04,718.2,88.2,CASH,TAKEAWAY,Completed,Weekend
+O000325,2025-11-22,21:44,609.9,74.9,CASH,,Completed,Weekend
+O000326,2025-11-22,21:07,1191.3,146.3,CASH,Dine in,Completed,Weekend
+O000327,2025-11-22,19:38,957.6,117.6,card,TAKEAWAY,Completed,Weekend
+O000328,2025-11-22,21:24,615.6,75.6,CASH,TAKEAWAY,Completed,Weekend
+O000329,2025-11-22,20:50,906.3,111.3,CASH,,Completed,Weekend
+O000330,2025-11-22,20:06,598.5,73.5,card,TAKEAWAY,Completed,Weekend
+O000331,2025-11-22,20:56,552.9,67.9,card,,Completed,Weekend
+O000332,2025-11-22,18:14,809.4,99.4,CASH,Dine in,Completed,Weekend
+O000333,2025-11-22,20:33,558.6,68.6,CASH,,Completed,Weekend
+O000334,2025-11-22,22:34,364.8,44.8,card,,Completed,Weekend
+O000335,2025-11-22,18:12,495.9,60.9,card,TAKEAWAY,Completed,Weekend
+O000336,2025-11-22,20:09,638.4,78.4,,TAKEAWAY,Completed,Weekend
+O000337,2025-11-22,18:55,752.4,92.4,,TAKEAWAY,Completed,Weekend
+O000338,2025-11-22,18:37,478.8,58.8,CASH,Dine in,Completed,Weekend
+O000339,2025-11-22,22:52,741.0,91.0,card,Dine in,Completed,Weekend
+O000340,2025-11-22,22:21,1282.5,157.5,CASH,Dine in,Completed,Weekend
+O000341,2025-11-22,20:46,535.8,65.8,card,Dine in,Completed,Weekend
+O000342,2025-11-22,22:52,513.0,63.0,card,Dine in,Completed,Weekend
+O000343,2025-11-22,21:02,855.0,105.0,CASH,,Completed,Weekend
+O000344,2025-11-22,22:24,507.3,62.3,CASH,Dine in,Completed,Weekend
+O000345,2025-11-22,22:34,615.6,75.6,CASH,Dine in,Completed,Weekend
+O000346,2025-11-22,19:12,763.8,93.8,card,TAKEAWAY,Completed,Weekend
+O000347,2025-11-22,18:58,587.1,72.1,CASH,,Completed,Weekend
+O000348,2025-11-22,20:05,450.3,55.3,card,Dine in,Completed,Weekend
+O000349,2025-11-22,19:41,478.8,58.8,CASH,Dine in,Completed,Weekend
+O000350,2025-11-22,21:03,1083.0,133.0,CASH,TAKEAWAY,Completed,Weekend
+O000351,2025-11-22,21:25,661.2,81.2,CASH,Dine in,Completed,Weekend
+O000352,2025-11-22,18:35,399.0,49.0,card,TAKEAWAY,Completed,Weekend
+O000353,2025-11-22,23:17,547.2,67.2,card,TAKEAWAY,Completed,Weekend
+O000354,2025-11-22,20:09,718.2,88.2,CASH,Dine in,Completed,Weekend
+O000355,2025-11-22,18:02,1949.4,239.4,CASH,TAKEAWAY,Completed,Weekend
+O000356,2025-11-22,21:49,655.5,80.5,CASH,Dine in,Completed,Weekend
+O000357,2025-11-22,23:27,1117.2,137.2,,TAKEAWAY,Completed,Weekend
+O000358,2025-11-22,22:05,644.1,79.1,card,TAKEAWAY,Completed,Weekend
+O000359,2025-11-22,19:59,855.0,105.0,card,Dine in,Completed,Weekend
+O000360,2025-11-22,19:22,792.3,97.3,card,Dine in,Completed,Weekend
+O000361,2025-11-22,20:52,843.6,103.6,CASH,Dine in,Completed,Weekend
+O000362,2025-11-22,22:27,615.6,75.6,CASH,TAKEAWAY,Completed,Weekend
+O000363,2025-11-22,23:55,923.4,113.4,card,TAKEAWAY,Completed,Weekend
+O000364,2025-11-22,20:00,433.2,53.2,CASH,TAKEAWAY,Completed,Weekend
+O000365,2025-11-22,18:28,478.8,58.8,CASH,Dine in,Completed,Weekend
+O000366,2025-11-22,23:48,558.6,68.6,card,,Completed,Weekend
+O000367,2025-11-22,22:33,809.4,99.4,CASH,TAKEAWAY,Completed,Weekend
+O000368,2025-11-22,18:30,615.6,75.6,CASH,Dine in,Completed,Weekend
+O000369,2025-11-22,21:46,1003.2,123.2,CASH,TAKEAWAY,Completed,Weekend
+O000370,2025-11-22,20:24,877.8,107.8,card,TAKEAWAY,Completed,Weekend
+O000371,2025-11-22,22:32,490.2,60.2,,Dine in,Completed,Weekend
+O000372,2025-11-22,22:23,741.0,91.0,card,TAKEAWAY,Completed,Weekend
+O000373,2025-11-22,18:00,473.1,58.1,CASH,Dine in,Completed,Weekend
+O000374,2025-11-22,20:28,575.7,70.7,CASH,TAKEAWAY,Completed,Weekend
+O000375,2025-11-22,20:01,632.7,77.7,CASH,TAKEAWAY,Completed,Weekend
+O000376,2025-11-22,21:44,638.4,78.4,card,,Completed,Weekend
+O000377,2025-11-22,20:00,627.0,77.0,card,TAKEAWAY,Completed,Weekend
+O000378,2025-11-22,22:00,1048.8,128.8,CASH,TAKEAWAY,Completed,Weekend
+O000379,2025-11-22,18:15,478.8,58.8,card,TAKEAWAY,Completed,Weekend
+O000380,2025-11-22,20:02,678.3,83.3,CASH,Dine in,Completed,Weekend
+O000381,2025-11-22,18:20,849.3,104.3,card,TAKEAWAY,Completed,Weekend
+O000382,2025-11-22,22:34,302.1,37.1,CASH,Dine in,Completed,Weekend
+O000383,2025-11-23,18:15,421.8,51.8,CASH,,Completed,weekday
+O000384,2025-11-23,14:10,353.4,43.4,card,Dine in,Completed,weekday
+O000385,2025-11-23,10:09,159.6,19.6,card,Dine in,Completed,weekday
+O000386,2025-11-23,14:47,570.0,70.0,card,TAKEAWAY,Completed,weekday
+O000387,2025-11-23,13:50,102.6,12.6,CASH,Dine in,Completed,weekday
+O000388,2025-11-23,11:54,233.7,28.7,CASH,TAKEAWAY,Completed,weekday
+O000389,2025-11-23,21:44,216.6,26.6,CASH,Dine in,Completed,weekday
+O000390,2025-11-23,18:00,285.0,35.0,card,TAKEAWAY,Completed,weekday
+O000391,2025-11-23,16:01,478.8,58.8,CASH,Dine in,Completed,weekday
+O000392,2025-11-23,15:40,319.2,39.2,CASH,TAKEAWAY,Completed,weekday
+O000393,2025-11-23,11:24,262.2,32.2,card,Dine in,Completed,weekday
+O000394,2025-11-23,11:29,387.6,47.6,CASH,Dine in,Completed,weekday
+O000395,2025-11-23,10:40,421.8,51.8,CASH,TAKEAWAY,Completed,weekday
+O000396,2025-11-23,16:51,239.4,29.4,card,Dine in,Completed,weekday
+O000397,2025-11-23,14:50,416.1,51.1,card,TAKEAWAY,Completed,weekday
+O000398,2025-11-23,11:36,467.4,57.4,CASH,Dine in,Completed,weekday
+O000399,2025-11-23,14:09,570.0,70.0,CASH,,Completed,weekday
+O000400,2025-11-23,16:53,273.6,33.6,card,TAKEAWAY,Completed,weekday
+O000401,2025-11-23,13:46,433.2,53.2,CASH,Dine in,Completed,weekday
+O000402,2025-11-23,17:14,68.4,8.4,card,Dine in,Completed,weekday
+O000403,2025-11-23,12:36,136.8,16.8,CASH,Dine in,Completed,weekday
+O000404,2025-11-23,20:11,376.2,46.2,card,TAKEAWAY,Completed,weekday
+O000405,2025-11-23,19:23,228.0,28.0,CASH,Dine in,Completed,weekday
+O000406,2025-11-23,10:18,444.6,54.6,card,Dine in,Completed,weekday
+O000407,2025-11-23,16:30,250.8,30.8,CASH,Dine in,Completed,weekday
+O000408,2025-11-23,20:57,399.0,49.0,,Dine in,Completed,weekday
+O000409,2025-11-23,16:15,273.6,33.6,card,TAKEAWAY,Completed,weekday
+O000410,2025-11-23,15:26,421.8,51.8,card,Dine in,Completed,weekday
+O000411,2025-11-23,14:00,0.0,0.0,CASH,TAKEAWAY,Completed,weekday
+O000412,2025-11-23,11:48,114.0,14.0,CASH,,Completed,weekday
+O000413,2025-11-23,18:06,136.8,16.8,card,Dine in,Completed,weekday
+O000414,2025-11-23,17:07,364.8,44.8,CASH,Dine in,Completed,weekday
+O000415,2025-11-23,15:58,125.4,15.4,card,TAKEAWAY,Completed,weekday
+O000416,2025-11-23,16:29,535.8,65.8,CASH,,Completed,weekday
+O000417,2025-11-23,17:39,450.3,55.3,card,Dine in,Completed,weekday
+O000418,2025-11-23,21:31,0.0,0.0,CASH,Dine in,Completed,weekday
+O000419,2025-11-23,13:53,68.4,8.4,card,Dine in,Completed,weekday
+O000420,2025-11-23,15:22,68.4,8.4,CASH,Dine in,Completed,weekday
+O000421,2025-11-23,17:09,68.4,8.4,CASH,Dine in,Completed,weekday
+O000422,2025-11-23,19:36,575.7,70.7,CASH,TAKEAWAY,Completed,weekday
+O000423,2025-11-23,13:07,171.0,21.0,CASH,TAKEAWAY,Completed,weekday
+O000424,2025-11-24,12:10,62.7,7.7,CASH,TAKEAWAY,Completed,weekday
+O000425,2025-11-24,16:46,102.6,12.6,card,Dine in,Completed,weekday
+O000426,2025-11-24,18:55,250.8,30.8,card,TAKEAWAY,Completed,weekday
+O000427,2025-11-24,21:12,387.6,47.6,,Dine in,Completed,weekday
+O000428,2025-11-24,14:11,353.4,43.4,CASH,TAKEAWAY,Completed,weekday
+O000429,2025-11-24,15:59,313.5,38.5,CASH,Dine in,Completed,weekday
+O000430,2025-11-24,22:07,228.0,28.0,card,TAKEAWAY,Completed,weekday
+O000431,2025-11-24,13:23,125.4,15.4,card,TAKEAWAY,Completed,weekday
+O000432,2025-11-24,21:50,524.4,64.4,CASH,,Completed,weekday
+O000433,2025-11-24,21:30,319.2,39.2,CASH,Dine in,Completed,weekday
+O000434,2025-11-24,18:43,285.0,35.0,,TAKEAWAY,Completed,weekday
+O000435,2025-11-24,10:58,342.0,42.0,CASH,Dine in,Completed,weekday
+O000436,2025-11-24,17:13,387.6,47.6,card,Dine in,Completed,weekday
+O000437,2025-11-24,18:30,342.0,42.0,CASH,Dine in,Completed,weekday
+O000438,2025-11-24,12:08,399.0,49.0,CASH,Dine in,Completed,weekday
+O000439,2025-11-24,13:08,153.9,18.9,CASH,Dine in,Completed,weekday
+O000440,2025-11-24,10:00,216.6,26.6,,TAKEAWAY,Completed,weekday
+O000441,2025-11-24,18:27,159.6,19.6,card,Dine in,Completed,weekday
+O000442,2025-11-24,20:51,296.4,36.4,CASH,Dine in,Completed,weekday
+O000443,2025-11-24,20:20,342.0,42.0,CASH,Dine in,Completed,weekday
+O000444,2025-11-24,21:53,319.2,39.2,,TAKEAWAY,Completed,weekday
+O000445,2025-11-24,10:15,285.0,35.0,card,TAKEAWAY,Completed,weekday
+O000446,2025-11-24,12:07,513.0,63.0,CASH,TAKEAWAY,Completed,weekday
+O000447,2025-11-24,11:17,182.4,22.4,card,Dine in,Completed,weekday
+O000448,2025-11-24,10:10,0.0,0.0,CASH,,Completed,weekday
+O000449,2025-11-24,22:53,125.4,15.4,card,Dine in,Completed,weekday
+O000450,2025-11-24,20:40,171.0,21.0,CASH,Dine in,Completed,weekday
+O000451,2025-11-24,22:32,159.6,19.6,CASH,Dine in,Completed,weekday
+O000452,2025-11-24,12:55,0.0,0.0,card,TAKEAWAY,Completed,weekday
+O000453,2025-11-24,16:24,421.8,51.8,card,,Completed,weekday
+O000454,2025-11-24,20:44,285.0,35.0,card,Dine in,Completed,weekday
+O000455,2025-11-24,22:05,262.2,32.2,card,TAKEAWAY,Completed,weekday
+O000456,2025-11-24,12:50,604.2,74.2,card,Dine in,Completed,weekday
+O000457,2025-11-24,14:57,68.4,8.4,,TAKEAWAY,Completed,weekday
+O000458,2025-11-24,20:54,159.6,19.6,CASH,,Completed,weekday
+O000459,2025-11-24,12:27,649.8,79.8,CASH,Dine in,Completed,weekday
+O000460,2025-11-24,11:42,649.8,79.8,CASH,Dine in,Completed,weekday
+O000461,2025-11-24,18:22,285.0,35.0,card,Dine in,Completed,weekday
+O000462,2025-11-24,19:37,0.0,0.0,CASH,,Completed,weekday
+O000463,2025-11-24,15:22,228.0,28.0,CASH,Dine in,Completed,weekday
+O000464,2025-11-25,10:58,416.1,51.1,card,Dine in,Completed,weekday
+O000465,2025-11-25,15:54,467.4,57.4,card,TAKEAWAY,Completed,weekday
+O000466,2025-11-25,20:59,364.8,44.8,,Dine in,Completed,weekday
+O000467,2025-11-25,10:11,125.4,15.4,card,TAKEAWAY,Completed,weekday
+O000468,2025-11-25,20:48,330.6,40.6,card,,Completed,weekday
+O000469,2025-11-25,21:45,627.0,77.0,CASH,TAKEAWAY,Completed,weekday
+O000470,2025-11-25,22:51,102.6,12.6,,,Completed,weekday
+O000471,2025-11-25,17:29,205.2,25.2,CASH,TAKEAWAY,Completed,weekday
+O000472,2025-11-25,15:33,159.6,19.6,CASH,,Completed,weekday
+O000473,2025-11-25,20:59,570.0,70.0,CASH,TAKEAWAY,Completed,weekday
+O000474,2025-11-25,15:46,313.5,38.5,card,TAKEAWAY,Completed,weekday
+O000475,2025-11-25,15:42,302.1,37.1,CASH,Dine in,Completed,weekday
+O000476,2025-11-25,11:00,239.4,29.4,card,TAKEAWAY,Completed,weekday
+O000477,2025-11-25,19:36,148.2,18.2,CASH,TAKEAWAY,Completed,weekday
+O000478,2025-11-25,21:54,171.0,21.0,CASH,TAKEAWAY,Completed,weekday
+O000479,2025-11-25,18:44,0.0,0.0,CASH,Dine in,Completed,weekday
+O000480,2025-11-25,18:37,267.9,32.9,CASH,TAKEAWAY,Completed,weekday
+O000481,2025-11-25,19:54,199.5,24.5,CASH,TAKEAWAY,Completed,weekday
+O000482,2025-11-25,19:58,416.1,51.1,CASH,Dine in,Completed,weekday
+O000483,2025-11-25,10:26,296.4,36.4,CASH,Dine in,Completed,weekday
+O000484,2025-11-25,22:42,273.6,33.6,card,TAKEAWAY,Completed,weekday
+O000485,2025-11-25,10:10,102.6,12.6,CASH,,Completed,weekday
+O000486,2025-11-25,13:36,182.4,22.4,CASH,Dine in,Completed,weekday
+O000487,2025-11-25,16:45,330.6,40.6,CASH,Dine in,Completed,weekday
+O000488,2025-11-25,15:00,114.0,14.0,CASH,,Completed,weekday
+O000489,2025-11-25,14:18,410.4,50.4,card,Dine in,Completed,weekday
+O000490,2025-11-25,16:22,114.0,14.0,card,TAKEAWAY,Completed,weekday
+O000491,2025-11-25,18:06,228.0,28.0,CASH,Dine in,Completed,weekday
+O000492,2025-11-25,13:00,279.3,34.3,CASH,Dine in,Completed,weekday
+O000493,2025-11-25,14:33,433.2,53.2,CASH,Dine in,Completed,weekday
+O000494,2025-11-25,20:13,433.2,53.2,card,TAKEAWAY,Completed,weekday
+O000495,2025-11-25,20:35,159.6,19.6,card,TAKEAWAY,Completed,weekday
+O000496,2025-11-25,11:19,125.4,15.4,card,Dine in,Completed,weekday
+O000497,2025-11-25,13:26,273.6,33.6,card,Dine in,Completed,weekday
+O000498,2025-11-25,15:24,182.4,22.4,card,Dine in,Completed,weekday
+O000499,2025-11-25,17:20,68.4,8.4,CASH,TAKEAWAY,Completed,weekday
+O000500,2025-11-25,21:02,364.8,44.8,CASH,Dine in,Completed,weekday
+O000501,2025-11-25,21:40,273.6,33.6,,Dine in,Completed,weekday
+O000502,2025-11-25,16:43,353.4,43.4,CASH,Dine in,Completed,weekday
+O000503,2025-11-25,21:28,68.4,8.4,card,TAKEAWAY,Completed,weekday
+O000504,2025-11-26,10:02,228.0,28.0,card,TAKEAWAY,Completed,weekday
+O000505,2025-11-26,20:56,68.4,8.4,card,,Completed,weekday
+O000506,2025-11-26,14:26,604.2,74.2,card,TAKEAWAY,Completed,weekday
+O000507,2025-11-26,22:54,216.6,26.6,CASH,,Completed,weekday
+O000508,2025-11-26,22:00,410.4,50.4,card,TAKEAWAY,Completed,weekday
+O000509,2025-11-26,13:10,239.4,29.4,,TAKEAWAY,Completed,weekday
+O000510,2025-11-26,20:02,193.8,23.8,card,Dine in,Completed,weekday
+O000511,2025-11-26,20:49,285.0,35.0,CASH,Dine in,Completed,weekday
+O000512,2025-11-26,18:31,330.6,40.6,card,Dine in,Completed,weekday
+O000513,2025-11-26,19:52,0.0,0.0,,,Completed,weekday
+O000514,2025-11-26,17:42,843.6,103.6,CASH,Dine in,Completed,weekday
+O000515,2025-11-26,14:15,393.3,48.3,CASH,TAKEAWAY,Completed,weekday
+O000516,2025-11-26,13:24,296.4,36.4,card,TAKEAWAY,Completed,weekday
+O000517,2025-11-26,18:35,273.6,33.6,CASH,Dine in,Completed,weekday
+O000518,2025-11-26,16:48,273.6,33.6,CASH,TAKEAWAY,Completed,weekday
+O000519,2025-11-26,10:32,285.0,35.0,CASH,Dine in,Completed,weekday
+O000520,2025-11-26,21:48,330.6,40.6,CASH,Dine in,Completed,weekday
+O000521,2025-11-26,10:35,478.8,58.8,,,Completed,weekday
+O000522,2025-11-26,21:55,250.8,30.8,card,TAKEAWAY,Completed,weekday
+O000523,2025-11-26,18:50,296.4,36.4,CASH,,Completed,weekday
+O000524,2025-11-26,20:02,364.8,44.8,card,Dine in,Completed,weekday
+O000525,2025-11-26,18:26,159.6,19.6,CASH,Dine in,Completed,weekday
+O000526,2025-11-26,19:44,570.0,70.0,card,Dine in,Completed,weekday
+O000527,2025-11-26,16:44,136.8,16.8,CASH,TAKEAWAY,Completed,weekday
+O000528,2025-11-26,19:37,239.4,29.4,card,Dine in,Completed,weekday
+O000529,2025-11-26,15:36,68.4,8.4,card,TAKEAWAY,Completed,weekday
+O000530,2025-11-26,16:01,262.2,32.2,CASH,Dine in,Completed,weekday
+O000531,2025-11-26,12:27,262.2,32.2,card,Dine in,Completed,weekday
+O000532,2025-11-26,16:05,102.6,12.6,CASH,TAKEAWAY,Completed,weekday
+O000533,2025-11-26,14:28,250.8,30.8,CASH,Dine in,Completed,weekday
+O000534,2025-11-26,19:11,250.8,30.8,card,Dine in,Completed,weekday
+O000535,2025-11-26,19:21,353.4,43.4,CASH,Dine in,Completed,weekday
+O000536,2025-11-26,20:31,421.8,51.8,CASH,Dine in,Completed,weekday
+O000537,2025-11-26,14:20,433.2,53.2,card,TAKEAWAY,Completed,weekday
+O000538,2025-11-26,14:53,427.5,52.5,,,Completed,weekday
+O000539,2025-11-26,13:26,250.8,30.8,CASH,Dine in,Completed,weekday
+O000540,2025-11-26,14:35,125.4,15.4,CASH,TAKEAWAY,Completed,weekday
+O000541,2025-11-26,19:57,410.4,50.4,CASH,TAKEAWAY,Completed,weekday
+O000542,2025-11-26,12:08,296.4,36.4,,Dine in,Completed,weekday
+O000543,2025-11-27,19:04,741.0,91.0,,TAKEAWAY,Completed,Weekend
+O000544,2025-11-27,19:25,1043.1,128.1,CASH,Dine in,Completed,Weekend
+O000545,2025-11-27,22:52,564.3,69.3,CASH,Dine in,Completed,Weekend
+O000546,2025-11-27,19:54,627.0,77.0,card,Dine in,Completed,Weekend
+O000547,2025-11-27,20:36,1943.7,238.7,CASH,Dine in,Completed,Weekend
+O000548,2025-11-27,19:11,689.7,84.7,card,TAKEAWAY,Completed,Weekend
+O000549,2025-11-27,19:19,775.2,95.2,card,TAKEAWAY,Completed,Weekend
+O000550,2025-11-27,23:22,1037.4,127.4,CASH,TAKEAWAY,Completed,Weekend
+O000551,2025-11-27,20:16,609.9,74.9,,TAKEAWAY,Completed,Weekend
+O000552,2025-11-27,20:24,934.8,114.8,CASH,TAKEAWAY,Completed,Weekend
+O000553,2025-11-27,21:32,1037.4,127.4,,TAKEAWAY,Completed,Weekend
+O000554,2025-11-27,21:57,535.8,65.8,CASH,TAKEAWAY,Completed,Weekend
+O000555,2025-11-27,19:13,478.8,58.8,CASH,Dine in,Completed,Weekend
+O000556,2025-11-27,21:19,478.8,58.8,card,TAKEAWAY,Completed,Weekend
+O000557,2025-11-27,18:59,1117.2,137.2,,TAKEAWAY,Completed,Weekend
+O000558,2025-11-27,19:40,701.1,86.1,card,Dine in,Completed,Weekend
+O000559,2025-11-27,23:39,638.4,78.4,card,,Completed,Weekend
+O000560,2025-11-27,22:51,570.0,70.0,CASH,TAKEAWAY,Completed,Weekend
+O000561,2025-11-27,19:21,627.0,77.0,CASH,Dine in,Completed,Weekend
+O000562,2025-11-27,19:04,684.0,84.0,card,TAKEAWAY,Completed,Weekend
+O000563,2025-11-27,19:54,684.0,84.0,card,TAKEAWAY,Completed,Weekend
+O000564,2025-11-27,21:31,718.2,88.2,CASH,Dine in,Completed,Weekend
+O000565,2025-11-27,19:11,735.3,90.3,,Dine in,Completed,Weekend
+O000566,2025-11-27,21:26,456.0,56.0,,Dine in,Completed,Weekend
+O000567,2025-11-27,19:55,393.3,48.3,CASH,TAKEAWAY,Completed,Weekend
+O000568,2025-11-27,20:53,478.8,58.8,CASH,Dine in,Completed,Weekend
+O000569,2025-11-27,20:28,752.4,92.4,card,,Completed,Weekend
+O000570,2025-11-27,20:43,615.6,75.6,CASH,TAKEAWAY,Completed,Weekend
+O000571,2025-11-27,18:07,228.0,28.0,card,TAKEAWAY,Completed,Weekend
+O000572,2025-11-27,22:24,712.5,87.5,card,,Completed,Weekend
+O000573,2025-11-27,22:33,627.0,77.0,CASH,TAKEAWAY,Completed,Weekend
+O000574,2025-11-27,20:12,552.9,67.9,CASH,TAKEAWAY,Completed,Weekend
+O000575,2025-11-27,22:40,906.3,111.3,CASH,TAKEAWAY,Completed,Weekend
+O000576,2025-11-27,23:47,632.7,77.7,CASH,TAKEAWAY,Completed,Weekend
+O000577,2025-11-27,23:29,1003.2,123.2,CASH,TAKEAWAY,Completed,Weekend
+O000578,2025-11-27,21:15,1026.0,126.0,card,Dine in,Completed,Weekend
+O000579,2025-11-27,21:11,513.0,63.0,CASH,TAKEAWAY,Completed,Weekend
+O000580,2025-11-27,18:42,501.6,61.6,card,,Completed,Weekend
+O000581,2025-11-27,19:55,376.2,46.2,card,TAKEAWAY,Completed,Weekend
+O000582,2025-11-27,19:21,404.7,49.7,CASH,,Completed,Weekend
+O000583,2025-11-27,22:04,718.2,88.2,CASH,Dine in,Completed,Weekend
+O000584,2025-11-27,22:05,946.2,116.2,card,Dine in,Completed,Weekend
+O000585,2025-11-27,23:32,473.1,58.1,card,TAKEAWAY,Completed,Weekend
+O000586,2025-11-27,20:44,535.8,65.8,card,Dine in,Completed,Weekend
+O000587,2025-11-27,18:26,587.1,72.1,card,Dine in,Completed,Weekend
+O000588,2025-11-27,23:55,456.0,56.0,card,TAKEAWAY,Completed,Weekend
+O000589,2025-11-27,21:48,969.0,119.0,card,Dine in,Completed,Weekend
+O000590,2025-11-27,22:33,353.4,43.4,CASH,Dine in,Completed,Weekend
+O000591,2025-11-27,20:03,467.4,57.4,,TAKEAWAY,Completed,Weekend
+O000592,2025-11-27,22:14,347.7,42.7,card,TAKEAWAY,Completed,Weekend
+O000593,2025-11-27,18:06,285.0,35.0,card,TAKEAWAY,Completed,Weekend
+O000594,2025-11-27,21:41,661.2,81.2,CASH,TAKEAWAY,Completed,Weekend
+O000595,2025-11-27,18:14,826.5,101.5,CASH,TAKEAWAY,Completed,Weekend
+O000596,2025-11-27,20:32,547.2,67.2,CASH,TAKEAWAY,Completed,Weekend
+O000597,2025-11-27,22:46,877.8,107.8,card,TAKEAWAY,Completed,Weekend
+O000598,2025-11-27,21:28,803.7,98.7,card,Dine in,Completed,Weekend
+O000599,2025-11-27,23:38,501.6,61.6,CASH,Dine in,Completed,Weekend
+O000600,2025-11-27,20:03,695.4,85.4,CASH,Dine in,Completed,Weekend
+O000601,2025-11-27,23:17,547.2,67.2,card,TAKEAWAY,Completed,Weekend
+O000602,2025-11-27,23:38,399.0,49.0,card,Dine in,Completed,Weekend
+O000603,2025-11-27,21:45,364.8,44.8,CASH,Dine in,Completed,Weekend
+O000604,2025-11-27,18:09,205.2,25.2,card,,Completed,Weekend
+O000605,2025-11-27,21:29,410.4,50.4,card,TAKEAWAY,Completed,Weekend
+O000606,2025-11-27,22:29,684.0,84.0,CASH,TAKEAWAY,Completed,Weekend
+O000607,2025-11-27,20:10,575.7,70.7,CASH,Dine in,Completed,Weekend
+O000608,2025-11-27,22:34,809.4,99.4,,TAKEAWAY,Completed,Weekend
+O000609,2025-11-27,18:40,718.2,88.2,CASH,,Completed,Weekend
+O000610,2025-11-27,19:11,513.0,63.0,card,TAKEAWAY,Completed,Weekend
+O000611,2025-11-27,21:18,530.1,65.1,card,,Completed,Weekend
+O000612,2025-11-27,21:31,376.2,46.2,,TAKEAWAY,Completed,Weekend
+O000613,2025-11-27,20:32,946.2,116.2,card,Dine in,Completed,Weekend
+O000614,2025-11-27,21:54,302.1,37.1,card,Dine in,Completed,Weekend
+O000615,2025-11-27,18:04,695.4,85.4,CASH,Dine in,Completed,Weekend
+O000616,2025-11-27,21:43,820.8,100.8,card,Dine in,Completed,Weekend
+O000617,2025-11-27,21:13,661.2,81.2,card,,Completed,Weekend
+O000618,2025-11-27,20:13,820.8,100.8,card,Dine in,Completed,Weekend
+O000619,2025-11-27,22:20,621.3,76.3,card,Dine in,Completed,Weekend
+O000620,2025-11-27,21:28,837.9,102.9,CASH,Dine in,Completed,Weekend
+O000621,2025-11-27,20:51,684.0,84.0,CASH,TAKEAWAY,Completed,Weekend
+O000622,2025-11-27,19:52,798.0,98.0,card,Dine in,Completed,Weekend
+O000623,2025-11-27,22:35,741.0,91.0,card,Dine in,Completed,Weekend
+O000624,2025-11-27,21:52,467.4,57.4,card,TAKEAWAY,Completed,Weekend
+O000625,2025-11-27,21:31,381.9,46.9,CASH,TAKEAWAY,Completed,Weekend
+O000626,2025-11-27,22:31,752.4,92.4,card,TAKEAWAY,Completed,Weekend
+O000627,2025-11-27,22:49,638.4,78.4,card,TAKEAWAY,Completed,Weekend
+O000628,2025-11-27,19:36,444.6,54.6,,Dine in,Completed,Weekend
+O000629,2025-11-27,18:15,473.1,58.1,card,TAKEAWAY,Completed,Weekend
+O000630,2025-11-27,20:17,866.4,106.4,CASH,,Completed,Weekend
+O000631,2025-11-27,21:01,353.4,43.4,card,Dine in,Completed,Weekend
+O000632,2025-11-27,18:19,1390.8,170.8,card,Dine in,Completed,Weekend
+O000633,2025-11-27,21:47,250.8,30.8,CASH,TAKEAWAY,Completed,Weekend
+O000634,2025-11-27,18:47,570.0,70.0,,Dine in,Completed,Weekend
+O000635,2025-11-27,23:34,1043.1,128.1,CASH,,Completed,Weekend
+O000636,2025-11-27,22:12,456.0,56.0,card,TAKEAWAY,Completed,Weekend
+O000637,2025-11-27,18:22,592.8,72.8,card,Dine in,Completed,Weekend
+O000638,2025-11-27,19:12,444.6,54.6,,TAKEAWAY,Completed,Weekend
+O000639,2025-11-27,19:25,467.4,57.4,card,Dine in,Completed,Weekend
+O000640,2025-11-27,22:17,1060.2,130.2,CASH,TAKEAWAY,Completed,Weekend
+O000641,2025-11-27,19:31,228.0,28.0,CASH,TAKEAWAY,Completed,Weekend
+O000642,2025-11-27,19:57,387.6,47.6,card,Dine in,Completed,Weekend
+O000643,2025-11-27,21:07,649.8,79.8,CASH,,Completed,Weekend
+O000644,2025-11-27,19:17,701.1,86.1,card,,Completed,Weekend
+O000645,2025-11-28,18:26,410.4,50.4,CASH,TAKEAWAY,Completed,Weekend
+O000646,2025-11-28,21:20,575.7,70.7,card,Dine in,Completed,Weekend
+O000647,2025-11-28,22:24,273.6,33.6,CASH,TAKEAWAY,Completed,Weekend
+O000648,2025-11-28,20:57,336.3,41.3,card,Dine in,Completed,Weekend
+O000649,2025-11-28,18:29,1003.2,123.2,card,TAKEAWAY,Completed,Weekend
+O000650,2025-11-28,21:45,421.8,51.8,card,Dine in,Completed,Weekend
+O000651,2025-11-28,22:18,986.1,121.1,CASH,TAKEAWAY,Completed,Weekend
+O000652,2025-11-28,22:19,877.8,107.8,CASH,TAKEAWAY,Completed,Weekend
+O000653,2025-11-28,22:49,444.6,54.6,CASH,TAKEAWAY,Completed,Weekend
+O000654,2025-11-28,18:58,991.8,121.8,card,Dine in,Completed,Weekend
+O000655,2025-11-28,21:58,820.8,100.8,CASH,Dine in,Completed,Weekend
+O000656,2025-11-28,21:47,467.4,57.4,card,TAKEAWAY,Completed,Weekend
+O000657,2025-11-28,20:54,450.3,55.3,card,TAKEAWAY,Completed,Weekend
+O000658,2025-11-28,19:54,285.0,35.0,CASH,Dine in,Completed,Weekend
+O000659,2025-11-28,21:39,1271.1,156.1,card,TAKEAWAY,Completed,Weekend
+O000660,2025-11-28,20:36,501.6,61.6,,TAKEAWAY,Completed,Weekend
+O000661,2025-11-28,23:15,570.0,70.0,CASH,TAKEAWAY,Completed,Weekend
+O000662,2025-11-28,20:38,535.8,65.8,CASH,Dine in,Completed,Weekend
+O000663,2025-11-28,21:14,718.2,88.2,CASH,Dine in,Completed,Weekend
+O000664,2025-11-28,21:14,421.8,51.8,CASH,Dine in,Completed,Weekend
+O000665,2025-11-28,21:34,689.7,84.7,CASH,Dine in,Completed,Weekend
+O000666,2025-11-28,18:34,552.9,67.9,CASH,,Completed,Weekend
+O000667,2025-11-28,19:03,456.0,56.0,,Dine in,Completed,Weekend
+O000668,2025-11-28,21:58,552.9,67.9,card,TAKEAWAY,Completed,Weekend
+O000669,2025-11-28,22:28,535.8,65.8,CASH,TAKEAWAY,Completed,Weekend
+O000670,2025-11-28,18:07,421.8,51.8,CASH,TAKEAWAY,Completed,Weekend
+O000671,2025-11-28,20:23,2205.9,270.9,card,TAKEAWAY,Completed,Weekend
+O000672,2025-11-28,21:21,1185.6,145.6,card,,Completed,Weekend
+O000673,2025-11-28,20:27,1464.9,179.9,card,Dine in,Completed,Weekend
+O000674,2025-11-28,20:00,564.3,69.3,CASH,TAKEAWAY,Completed,Weekend
+O000675,2025-11-28,22:42,490.2,60.2,card,TAKEAWAY,Completed,Weekend
+O000676,2025-11-28,22:10,433.2,53.2,card,TAKEAWAY,Completed,Weekend
+O000677,2025-11-28,22:31,695.4,85.4,,TAKEAWAY,Completed,Weekend
+O000678,2025-11-28,22:53,763.8,93.8,card,Dine in,Completed,Weekend
+O000679,2025-11-28,22:55,399.0,49.0,card,Dine in,Completed,Weekend
+O000680,2025-11-28,22:59,456.0,56.0,CASH,Dine in,Completed,Weekend
+O000681,2025-11-28,20:07,524.4,64.4,card,Dine in,Completed,Weekend
+O000682,2025-11-28,18:35,809.4,99.4,CASH,Dine in,Completed,Weekend
+O000683,2025-11-28,21:16,473.1,58.1,CASH,Dine in,Completed,Weekend
+O000684,2025-11-28,22:07,592.8,72.8,CASH,Dine in,Completed,Weekend
+O000685,2025-11-28,19:39,467.4,57.4,CASH,TAKEAWAY,Completed,Weekend
+O000686,2025-11-28,22:51,991.8,121.8,card,Dine in,Completed,Weekend
+O000687,2025-11-28,19:29,570.0,70.0,,TAKEAWAY,Completed,Weekend
+O000688,2025-11-28,20:10,592.8,72.8,CASH,TAKEAWAY,Completed,Weekend
+O000689,2025-11-28,22:21,530.1,65.1,,Dine in,Completed,Weekend
+O000690,2025-11-28,22:07,843.6,103.6,card,TAKEAWAY,Completed,Weekend
+O000691,2025-11-28,20:02,735.3,90.3,card,TAKEAWAY,Completed,Weekend
+O000692,2025-11-28,21:10,570.0,70.0,card,,Completed,Weekend
+O000693,2025-11-28,23:47,262.2,32.2,,Dine in,Completed,Weekend
+O000694,2025-11-28,21:16,1231.2,151.2,card,TAKEAWAY,Completed,Weekend
+O000695,2025-11-28,18:08,552.9,67.9,card,TAKEAWAY,Completed,Weekend
+O000696,2025-11-28,19:56,478.8,58.8,CASH,TAKEAWAY,Completed,Weekend
+O000697,2025-11-28,19:04,410.4,50.4,card,Dine in,Completed,Weekend
+O000698,2025-11-28,21:29,855.0,105.0,card,Dine in,Completed,Weekend
+O000699,2025-11-28,22:03,1174.2,144.2,CASH,Dine in,Completed,Weekend
+O000700,2025-11-28,20:44,587.1,72.1,card,TAKEAWAY,Completed,Weekend
+O000701,2025-11-28,20:45,678.3,83.3,card,TAKEAWAY,Completed,Weekend
+O000702,2025-11-28,21:43,592.8,72.8,card,Dine in,Completed,Weekend
+O000703,2025-11-28,18:13,1197.0,147.0,CASH,TAKEAWAY,Completed,Weekend
+O000704,2025-11-28,18:56,820.8,100.8,CASH,TAKEAWAY,Completed,Weekend
+O000705,2025-11-28,21:09,467.4,57.4,card,Dine in,Completed,Weekend
+O000706,2025-11-28,23:53,319.2,39.2,CASH,TAKEAWAY,Completed,Weekend
+O000707,2025-11-28,20:43,661.2,81.2,card,TAKEAWAY,Completed,Weekend
+O000708,2025-11-28,21:38,860.7,105.7,CASH,TAKEAWAY,Completed,Weekend
+O000709,2025-11-28,18:47,547.2,67.2,card,Dine in,Completed,Weekend
+O000710,2025-11-28,19:46,752.4,92.4,card,Dine in,Completed,Weekend
+O000711,2025-11-28,19:57,564.3,69.3,CASH,Dine in,Completed,Weekend
+O000712,2025-11-28,21:41,661.2,81.2,card,TAKEAWAY,Completed,Weekend
+O000713,2025-11-28,21:28,598.5,73.5,,Dine in,Completed,Weekend
+O000714,2025-11-28,20:34,484.5,59.5,CASH,,Completed,Weekend
+O000715,2025-11-28,20:58,991.8,121.8,CASH,TAKEAWAY,Completed,Weekend
+O000716,2025-11-28,19:37,649.8,79.8,,TAKEAWAY,Completed,Weekend
+O000717,2025-11-28,19:13,729.6,89.6,card,TAKEAWAY,Completed,Weekend
+O000718,2025-11-28,19:33,513.0,63.0,,Dine in,Completed,Weekend
+O000719,2025-11-28,22:44,775.2,95.2,CASH,TAKEAWAY,Completed,Weekend
+O000720,2025-11-28,18:37,706.8,86.8,card,Dine in,Completed,Weekend
+O000721,2025-11-28,19:09,706.8,86.8,,Dine in,Completed,Weekend
+O000722,2025-11-28,19:35,923.4,113.4,CASH,Dine in,Completed,Weekend
+O000723,2025-11-28,22:23,735.3,90.3,card,Dine in,Completed,Weekend
+O000724,2025-11-28,22:03,484.5,59.5,card,Dine in,Completed,Weekend
+O000725,2025-11-28,19:13,741.0,91.0,card,Dine in,Completed,Weekend
+O000726,2025-11-28,23:26,655.5,80.5,CASH,Dine in,Completed,Weekend
+O000727,2025-11-28,18:08,752.4,92.4,CASH,TAKEAWAY,Completed,Weekend
+O000728,2025-11-28,19:34,912.0,112.0,card,TAKEAWAY,Completed,Weekend
+O000729,2025-11-28,20:42,381.9,46.9,card,Dine in,Completed,Weekend
+O000730,2025-11-28,19:01,815.1,100.1,CASH,TAKEAWAY,Completed,Weekend
+O000731,2025-11-28,21:10,627.0,77.0,card,TAKEAWAY,Completed,Weekend
+O000732,2025-11-28,19:37,786.6,96.6,CASH,TAKEAWAY,Completed,Weekend
+O000733,2025-11-28,22:45,672.6,82.6,CASH,,Completed,Weekend
+O000734,2025-11-28,21:32,587.1,72.1,CASH,Dine in,Completed,Weekend
+O000735,2025-11-28,20:33,832.2,102.2,CASH,Dine in,Completed,Weekend
+O000736,2025-11-28,18:59,815.1,100.1,CASH,Dine in,Completed,Weekend
+O000737,2025-11-28,20:37,1003.2,123.2,card,TAKEAWAY,Completed,Weekend
+O000738,2025-11-28,23:42,741.0,91.0,CASH,TAKEAWAY,Completed,Weekend
+O000739,2025-11-28,20:30,581.4,71.4,card,TAKEAWAY,Completed,Weekend
+O000740,2025-11-28,20:54,712.5,87.5,card,TAKEAWAY,Completed,Weekend
+O000741,2025-11-28,22:10,1117.2,137.2,card,Dine in,Completed,Weekend
+O000742,2025-11-28,20:31,535.8,65.8,CASH,TAKEAWAY,Completed,Weekend
+O000743,2025-11-28,18:54,416.1,51.1,CASH,TAKEAWAY,Completed,Weekend
+O000744,2025-11-28,18:41,1043.1,128.1,CASH,Dine in,Completed,Weekend
+O000745,2025-11-28,18:49,917.7,112.7,card,TAKEAWAY,Completed,Weekend
+O000746,2025-11-28,21:50,387.6,47.6,CASH,Dine in,Completed,Weekend
+O000747,2025-11-28,22:50,387.6,47.6,CASH,Dine in,Completed,Weekend
+O000748,2025-11-28,18:38,695.4,85.4,card,Dine in,Completed,Weekend
+O000749,2025-11-28,20:55,706.8,86.8,card,TAKEAWAY,Completed,Weekend
+O000750,2025-11-28,22:32,661.2,81.2,card,TAKEAWAY,Completed,Weekend
+O000751,2025-11-28,20:07,775.2,95.2,CASH,Dine in,Completed,Weekend
+O000752,2025-11-28,18:42,912.0,112.0,CASH,Dine in,Completed,Weekend
+O000753,2025-11-28,18:29,547.2,67.2,card,TAKEAWAY,Completed,Weekend
+O000754,2025-11-28,19:01,376.2,46.2,CASH,TAKEAWAY,Completed,Weekend
+O000755,2025-11-28,22:16,456.0,56.0,,TAKEAWAY,Completed,Weekend
+O000756,2025-11-28,20:09,342.0,42.0,card,Dine in,Completed,Weekend
+O000757,2025-11-28,18:26,837.9,102.9,card,TAKEAWAY,Completed,Weekend
+O000758,2025-11-29,18:55,758.1,93.1,CASH,,Completed,Weekend
+O000759,2025-11-29,20:04,912.0,112.0,card,Dine in,Completed,Weekend
+O000760,2025-11-29,18:11,490.2,60.2,CASH,Dine in,Completed,Weekend
+O000761,2025-11-29,23:51,729.6,89.6,card,TAKEAWAY,Completed,Weekend
+O000762,2025-11-29,20:13,541.5,66.5,card,TAKEAWAY,Completed,Weekend
+O000763,2025-11-29,22:29,592.8,72.8,CASH,Dine in,Completed,Weekend
+O000764,2025-11-29,21:42,524.4,64.4,card,TAKEAWAY,Completed,Weekend
+O000765,2025-11-29,21:16,478.8,58.8,CASH,Dine in,Completed,Weekend
+O000766,2025-11-29,19:02,752.4,92.4,card,TAKEAWAY,Completed,Weekend
+O000767,2025-11-29,22:14,307.8,37.8,,TAKEAWAY,Completed,Weekend
+O000768,2025-11-29,19:19,684.0,84.0,CASH,Dine in,Completed,Weekend
+O000769,2025-11-29,21:34,421.8,51.8,,Dine in,Completed,Weekend
+O000770,2025-11-29,21:41,963.3,118.3,CASH,TAKEAWAY,Completed,Weekend
+O000771,2025-11-29,21:58,376.2,46.2,card,TAKEAWAY,Completed,Weekend
+O000772,2025-11-29,20:27,843.6,103.6,,Dine in,Completed,Weekend
+O000773,2025-11-29,20:18,991.8,121.8,card,Dine in,Completed,Weekend
+O000774,2025-11-29,19:13,473.1,58.1,CASH,TAKEAWAY,Completed,Weekend
+O000775,2025-11-29,21:52,786.6,96.6,card,TAKEAWAY,Completed,Weekend
+O000776,2025-11-29,21:52,342.0,42.0,CASH,TAKEAWAY,Completed,Weekend
+O000777,2025-11-29,18:24,592.8,72.8,CASH,TAKEAWAY,Completed,Weekend
+O000778,2025-11-29,21:24,501.6,61.6,CASH,,Completed,Weekend
+O000779,2025-11-29,20:13,342.0,42.0,card,TAKEAWAY,Completed,Weekend
+O000780,2025-11-29,23:59,501.6,61.6,CASH,Dine in,Completed,Weekend
+O000781,2025-11-29,21:00,855.0,105.0,card,TAKEAWAY,Completed,Weekend
+O000782,2025-11-29,21:10,843.6,103.6,CASH,TAKEAWAY,Completed,Weekend
+O000783,2025-11-29,18:37,427.5,52.5,CASH,TAKEAWAY,Completed,Weekend
+O000784,2025-11-29,20:18,478.8,58.8,card,TAKEAWAY,Completed,Weekend
+O000785,2025-11-29,22:30,239.4,29.4,card,TAKEAWAY,Completed,Weekend
+O000786,2025-11-29,23:10,672.6,82.6,CASH,TAKEAWAY,Completed,Weekend
+O000787,2025-11-29,22:49,746.7,91.7,CASH,,Completed,Weekend
+O000788,2025-11-29,20:46,547.2,67.2,CASH,TAKEAWAY,Completed,Weekend
+O000789,2025-11-29,20:56,421.8,51.8,CASH,TAKEAWAY,Completed,Weekend
+O000790,2025-11-29,21:48,330.6,40.6,,Dine in,Completed,Weekend
+O000791,2025-11-29,21:23,250.8,30.8,card,TAKEAWAY,Completed,Weekend
+O000792,2025-11-29,21:29,478.8,58.8,card,Dine in,Completed,Weekend
+O000793,2025-11-29,20:51,393.3,48.3,card,TAKEAWAY,Completed,Weekend
+O000794,2025-11-29,21:59,809.4,99.4,card,Dine in,Completed,Weekend
+O000795,2025-11-29,19:27,934.8,114.8,card,Dine in,Completed,Weekend
+O000796,2025-11-29,20:56,513.0,63.0,card,TAKEAWAY,Completed,Weekend
+O000797,2025-11-29,21:47,661.2,81.2,CASH,Dine in,Completed,Weekend
+O000798,2025-11-29,21:19,501.6,61.6,card,TAKEAWAY,Completed,Weekend
+O000799,2025-11-29,21:18,421.8,51.8,CASH,TAKEAWAY,Completed,Weekend
+O000800,2025-11-29,21:30,1356.6,166.6,card,Dine in,Completed,Weekend
+O000801,2025-11-29,23:29,843.6,103.6,card,TAKEAWAY,Completed,Weekend
+O000802,2025-11-29,20:15,798.0,98.0,,,Completed,Weekend
+O000803,2025-11-29,21:13,285.0,35.0,,Dine in,Completed,Weekend
+O000804,2025-11-29,23:53,798.0,98.0,card,TAKEAWAY,Completed,Weekend
+O000805,2025-11-29,19:44,1812.6,222.6,CASH,TAKEAWAY,Completed,Weekend
+O000806,2025-11-29,20:36,889.2,109.2,card,Dine in,Completed,Weekend
+O000807,2025-11-29,21:26,866.4,106.4,CASH,TAKEAWAY,Completed,Weekend
+O000808,2025-11-29,22:11,741.0,91.0,,Dine in,Completed,Weekend
+O000809,2025-11-29,20:59,438.9,53.9,CASH,Dine in,Completed,Weekend
+O000810,2025-11-29,21:52,609.9,74.9,CASH,TAKEAWAY,Completed,Weekend
+O000811,2025-11-29,19:35,900.6,110.6,card,,Completed,Weekend
+O000812,2025-11-29,20:43,501.6,61.6,,TAKEAWAY,Completed,Weekend
+O000813,2025-11-29,22:29,621.3,76.3,CASH,,Completed,Weekend
+O000814,2025-11-29,21:13,627.0,77.0,card,TAKEAWAY,Completed,Weekend
+O000815,2025-11-29,20:48,1020.3,125.3,card,Dine in,Completed,Weekend
+O000816,2025-11-29,19:33,632.7,77.7,CASH,TAKEAWAY,Completed,Weekend
+O000817,2025-11-29,23:17,399.0,49.0,CASH,Dine in,Completed,Weekend
+O000818,2025-11-29,23:49,604.2,74.2,CASH,,Completed,Weekend
+O000819,2025-11-29,22:20,615.6,75.6,CASH,,Completed,Weekend
+O000820,2025-11-29,22:59,570.0,70.0,card,Dine in,Completed,Weekend
+O000821,2025-11-29,21:37,592.8,72.8,CASH,Dine in,Completed,Weekend
+O000822,2025-11-29,20:22,478.8,58.8,,TAKEAWAY,Completed,Weekend
+O000823,2025-11-29,22:30,741.0,91.0,card,TAKEAWAY,Completed,Weekend
+O000824,2025-11-29,20:09,798.0,98.0,CASH,TAKEAWAY,Completed,Weekend
+O000825,2025-11-29,23:16,889.2,109.2,CASH,Dine in,Completed,Weekend
+O000826,2025-11-29,19:20,729.6,89.6,CASH,Dine in,Completed,Weekend
+O000827,2025-11-29,21:36,718.2,88.2,,TAKEAWAY,Completed,Weekend
+O000828,2025-11-29,20:28,342.0,42.0,card,TAKEAWAY,Completed,Weekend
+O000829,2025-11-29,23:01,467.4,57.4,card,Dine in,Completed,Weekend
+O000830,2025-11-29,19:14,832.2,102.2,card,TAKEAWAY,Completed,Weekend
+O000831,2025-11-29,19:58,792.3,97.3,CASH,Dine in,Completed,Weekend
+O000832,2025-11-29,21:41,2126.1,261.1,card,TAKEAWAY,Completed,Weekend
+O000833,2025-11-29,21:15,547.2,67.2,CASH,Dine in,Completed,Weekend
+O000834,2025-11-29,20:38,604.2,74.2,CASH,TAKEAWAY,Completed,Weekend
+O000835,2025-11-29,18:33,649.8,79.8,CASH,Dine in,Completed,Weekend
+O000836,2025-11-29,18:27,763.8,93.8,,Dine in,Completed,Weekend
+O000837,2025-11-29,21:35,627.0,77.0,CASH,Dine in,Completed,Weekend
+O000838,2025-11-29,21:52,501.6,61.6,card,TAKEAWAY,Completed,Weekend
+O000839,2025-11-29,22:46,581.4,71.4,CASH,TAKEAWAY,Completed,Weekend
+O000840,2025-11-29,20:35,490.2,60.2,card,TAKEAWAY,Completed,Weekend
+O000841,2025-11-29,20:26,353.4,43.4,CASH,TAKEAWAY,Completed,Weekend
+O000842,2025-11-29,21:49,752.4,92.4,,Dine in,Completed,Weekend
+O000843,2025-11-29,22:35,934.8,114.8,card,Dine in,Completed,Weekend
+O000844,2025-11-29,19:34,900.6,110.6,CASH,Dine in,Completed,Weekend
+O000845,2025-11-29,21:21,849.3,104.3,CASH,Dine in,Completed,Weekend
+O000846,2025-11-29,22:49,689.7,84.7,CASH,TAKEAWAY,Completed,Weekend
+O000847,2025-11-29,19:23,940.5,115.5,,Dine in,Completed,Weekend
+O000848,2025-11-30,18:22,262.2,32.2,CASH,Dine in,Completed,weekday
+O000849,2025-11-30,22:46,592.8,72.8,,Dine in,Completed,weekday
+O000850,2025-11-30,16:40,330.6,40.6,CASH,TAKEAWAY,Completed,weekday
+O000851,2025-11-30,12:41,478.8,58.8,card,TAKEAWAY,Completed,weekday
+O000852,2025-11-30,15:35,342.0,42.0,CASH,,Completed,weekday
+O000853,2025-11-30,17:21,307.8,37.8,CASH,,Completed,weekday
+O000854,2025-11-30,20:24,313.5,38.5,CASH,,Completed,weekday
+O000855,2025-11-30,12:15,752.4,92.4,CASH,TAKEAWAY,Completed,weekday
+O000856,2025-11-30,15:18,182.4,22.4,card,TAKEAWAY,Completed,weekday
+O000857,2025-11-30,14:06,444.6,54.6,CASH,TAKEAWAY,Completed,weekday
+O000858,2025-11-30,19:19,381.9,46.9,CASH,TAKEAWAY,Completed,weekday
+O000859,2025-11-30,12:31,210.9,25.9,CASH,Dine in,Completed,weekday
+O000860,2025-11-30,21:39,524.4,64.4,CASH,TAKEAWAY,Completed,weekday
+O000861,2025-11-30,11:59,359.1,44.1,CASH,TAKEAWAY,Completed,weekday
+O000862,2025-11-30,14:46,182.4,22.4,card,Dine in,Completed,weekday
+O000863,2025-11-30,12:24,250.8,30.8,CASH,Dine in,Completed,weekday
+O000864,2025-11-30,16:10,381.9,46.9,,TAKEAWAY,Completed,weekday
+O000865,2025-11-30,20:37,228.0,28.0,CASH,TAKEAWAY,Completed,weekday
+O000866,2025-11-30,14:41,216.6,26.6,card,Dine in,Completed,weekday
+O000867,2025-11-30,15:41,558.6,68.6,card,TAKEAWAY,Completed,weekday
+O000868,2025-11-30,14:07,444.6,54.6,,Dine in,Completed,weekday
+O000869,2025-11-30,20:45,307.8,37.8,CASH,Dine in,Completed,weekday
+O000870,2025-11-30,16:31,250.8,30.8,CASH,TAKEAWAY,Completed,weekday
+O000871,2025-11-30,14:19,615.6,75.6,CASH,Dine in,Completed,weekday
+O000872,2025-11-30,11:30,421.8,51.8,card,Dine in,Completed,weekday
+O000873,2025-11-30,15:07,421.8,51.8,CASH,,Completed,weekday
+O000874,2025-11-30,16:20,387.6,47.6,card,Dine in,Completed,weekday
+O000875,2025-11-30,16:45,193.8,23.8,CASH,TAKEAWAY,Completed,weekday
+O000876,2025-11-30,19:18,319.2,39.2,CASH,Dine in,Completed,weekday
+O000877,2025-11-30,10:37,364.8,44.8,CASH,TAKEAWAY,Completed,weekday
+O000878,2025-11-30,19:28,410.4,50.4,card,TAKEAWAY,Completed,weekday
+O000879,2025-11-30,11:55,228.0,28.0,CASH,Dine in,Completed,weekday
+O000880,2025-11-30,10:54,228.0,28.0,,,Completed,weekday
+O000881,2025-11-30,21:13,205.2,25.2,CASH,Dine in,Completed,weekday
+O000882,2025-11-30,12:08,353.4,43.4,CASH,TAKEAWAY,Completed,weekday
+O000883,2025-11-30,19:58,456.0,56.0,card,TAKEAWAY,Completed,weekday
+O000884,2025-11-30,19:00,216.6,26.6,card,Dine in,Completed,weekday
+O000885,2025-11-30,11:02,171.0,21.0,card,Dine in,Completed,weekday
+O000886,2025-11-30,11:17,228.0,28.0,CASH,Dine in,Completed,weekday
+O000887,2025-12-01,22:01,307.8,37.8,card,Dine in,Completed,weekday
+O000888,2025-12-01,15:00,228.0,28.0,card,Dine in,Completed,weekday
+O000889,2025-12-01,13:52,171.0,21.0,CASH,TAKEAWAY,Completed,weekday
+O000890,2025-12-01,22:52,285.0,35.0,CASH,Dine in,Completed,weekday
+O000891,2025-12-01,22:17,205.2,25.2,card,TAKEAWAY,Completed,weekday
+O000892,2025-12-01,18:14,68.4,8.4,card,TAKEAWAY,Completed,weekday
+O000893,2025-12-01,14:35,102.6,12.6,CASH,TAKEAWAY,Completed,weekday
+O000894,2025-12-01,20:14,467.4,57.4,,TAKEAWAY,Completed,weekday
+O000895,2025-12-01,21:00,342.0,42.0,card,TAKEAWAY,Completed,weekday
+O000896,2025-12-01,10:36,604.2,74.2,CASH,TAKEAWAY,Completed,weekday
+O000897,2025-12-01,16:37,456.0,56.0,CASH,Dine in,Completed,weekday
+O000898,2025-12-01,20:18,125.4,15.4,CASH,TAKEAWAY,Completed,weekday
+O000899,2025-12-01,15:31,410.4,50.4,card,Dine in,Completed,weekday
+O000900,2025-12-01,10:45,159.6,19.6,CASH,TAKEAWAY,Completed,weekday
+O000901,2025-12-01,13:55,222.3,27.3,card,TAKEAWAY,Completed,weekday
+O000902,2025-12-01,21:02,125.4,15.4,CASH,,Completed,weekday
+O000903,2025-12-01,19:51,524.4,64.4,card,TAKEAWAY,Completed,weekday
+O000904,2025-12-01,20:28,250.8,30.8,card,Dine in,Completed,weekday
+O000905,2025-12-01,13:38,136.8,16.8,CASH,TAKEAWAY,Completed,weekday
+O000906,2025-12-01,19:04,216.6,26.6,CASH,TAKEAWAY,Completed,weekday
+O000907,2025-12-01,16:22,171.0,21.0,card,TAKEAWAY,Completed,weekday
+O000908,2025-12-01,13:35,182.4,22.4,card,TAKEAWAY,Completed,weekday
+O000909,2025-12-01,17:50,558.6,68.6,card,Dine in,Completed,weekday
+O000910,2025-12-01,12:16,319.2,39.2,card,TAKEAWAY,Completed,weekday
+O000911,2025-12-01,15:51,148.2,18.2,CASH,TAKEAWAY,Completed,weekday
+O000912,2025-12-01,10:31,228.0,28.0,card,Dine in,Completed,weekday
+O000913,2025-12-01,16:30,387.6,47.6,card,TAKEAWAY,Completed,weekday
+O000914,2025-12-01,22:52,524.4,64.4,CASH,Dine in,Completed,weekday
+O000915,2025-12-01,11:57,182.4,22.4,card,Dine in,Completed,weekday
+O000916,2025-12-01,19:58,678.3,83.3,card,,Completed,weekday
+O000917,2025-12-01,17:18,524.4,64.4,CASH,Dine in,Completed,weekday
+O000918,2025-12-01,14:38,456.0,56.0,,TAKEAWAY,Completed,weekday
+O000919,2025-12-01,10:07,245.1,30.1,CASH,TAKEAWAY,Completed,weekday
+O000920,2025-12-01,12:52,661.2,81.2,card,Dine in,Completed,weekday
+O000921,2025-12-01,22:39,136.8,16.8,card,TAKEAWAY,Completed,weekday
+O000922,2025-12-01,20:00,239.4,29.4,CASH,TAKEAWAY,Completed,weekday
+O000923,2025-12-01,16:26,159.6,19.6,CASH,Dine in,Completed,weekday
+O000924,2025-12-01,14:32,467.4,57.4,card,TAKEAWAY,Completed,weekday
+O000925,2025-12-01,14:04,342.0,42.0,card,Dine in,Completed,weekday
+O000926,2025-12-01,17:08,228.0,28.0,card,Dine in,Completed,weekday
+O000927,2025-12-01,14:16,627.0,77.0,CASH,TAKEAWAY,Completed,weekday
+O000928,2025-12-02,20:41,68.4,8.4,,,Completed,weekday
+O000929,2025-12-02,19:33,467.4,57.4,CASH,Dine in,Completed,weekday
+O000930,2025-12-02,10:07,570.0,70.0,CASH,TAKEAWAY,Completed,weekday
+O000931,2025-12-02,22:26,307.8,37.8,,,Completed,weekday
+O000932,2025-12-02,20:01,421.8,51.8,card,Dine in,Completed,weekday
+O000933,2025-12-02,18:31,68.4,8.4,CASH,Dine in,Completed,weekday
+O000934,2025-12-02,18:46,228.0,28.0,card,Dine in,Completed,weekday
+O000935,2025-12-02,20:20,228.0,28.0,card,,Completed,weekday
+O000936,2025-12-02,19:19,416.1,51.1,CASH,TAKEAWAY,Completed,weekday
+O000937,2025-12-02,13:32,193.8,23.8,card,TAKEAWAY,Completed,weekday
+O000938,2025-12-02,22:48,193.8,23.8,CASH,TAKEAWAY,Completed,weekday
+O000939,2025-12-02,11:45,114.0,14.0,,Dine in,Completed,weekday
+O000940,2025-12-02,11:04,513.0,63.0,card,TAKEAWAY,Completed,weekday
+O000941,2025-12-02,19:48,410.4,50.4,CASH,TAKEAWAY,Completed,weekday
+O000942,2025-12-02,20:36,433.2,53.2,card,Dine in,Completed,weekday
+O000943,2025-12-02,17:41,627.0,77.0,card,Dine in,Completed,weekday
+O000944,2025-12-02,16:35,467.4,57.4,CASH,Dine in,Completed,weekday
+O000945,2025-12-02,14:54,125.4,15.4,card,,Completed,weekday
+O000946,2025-12-02,18:32,171.0,21.0,card,Dine in,Completed,weekday
+O000947,2025-12-02,18:47,285.0,35.0,CASH,TAKEAWAY,Completed,weekday
+O000948,2025-12-02,19:55,119.7,14.7,CASH,TAKEAWAY,Completed,weekday
+O000949,2025-12-02,17:31,165.3,20.3,CASH,Dine in,Completed,weekday
+O000950,2025-12-02,22:27,330.6,40.6,CASH,Dine in,Completed,weekday
+O000951,2025-12-02,20:31,0.0,0.0,CASH,TAKEAWAY,Completed,weekday
+O000952,2025-12-02,14:26,216.6,26.6,card,,Completed,weekday
+O000953,2025-12-02,10:10,216.6,26.6,card,Dine in,Completed,weekday
+O000954,2025-12-02,16:35,621.3,76.3,CASH,TAKEAWAY,Completed,weekday
+O000955,2025-12-02,15:18,296.4,36.4,card,,Completed,weekday
+O000956,2025-12-02,15:23,125.4,15.4,card,Dine in,Completed,weekday
+O000957,2025-12-02,21:29,421.8,51.8,card,TAKEAWAY,Completed,weekday
+O000958,2025-12-02,12:51,285.0,35.0,CASH,Dine in,Completed,weekday
+O000959,2025-12-02,10:24,285.0,35.0,,TAKEAWAY,Completed,weekday
+O000960,2025-12-02,14:06,1607.4,197.4,card,TAKEAWAY,Completed,weekday
+O000961,2025-12-02,22:45,114.0,14.0,card,TAKEAWAY,Completed,weekday
+O000962,2025-12-02,15:29,285.0,35.0,CASH,Dine in,Completed,weekday
+O000963,2025-12-02,14:33,273.6,33.6,card,TAKEAWAY,Completed,weekday
+O000964,2025-12-02,10:38,456.0,56.0,CASH,TAKEAWAY,Completed,weekday
+O000965,2025-12-02,17:42,319.2,39.2,card,,Completed,weekday
+O000966,2025-12-02,18:28,627.0,77.0,card,TAKEAWAY,Completed,weekday
+O000967,2025-12-03,12:58,296.4,36.4,CASH,TAKEAWAY,Completed,weekday
+O000968,2025-12-03,19:32,193.8,23.8,card,TAKEAWAY,Completed,weekday
+O000969,2025-12-03,11:47,159.6,19.6,card,Dine in,Completed,weekday
+O000970,2025-12-03,18:09,228.0,28.0,card,Dine in,Completed,weekday
+O000971,2025-12-03,13:26,342.0,42.0,CASH,,Completed,weekday
+O000972,2025-12-03,10:47,182.4,22.4,CASH,TAKEAWAY,Completed,weekday
+O000973,2025-12-03,10:03,433.2,53.2,CASH,Dine in,Completed,weekday
+O000974,2025-12-03,11:54,148.2,18.2,CASH,Dine in,Completed,weekday
+O000975,2025-12-03,12:50,171.0,21.0,card,TAKEAWAY,Completed,weekday
+O000976,2025-12-03,20:17,513.0,63.0,card,Dine in,Completed,weekday
+O000977,2025-12-03,12:44,416.1,51.1,card,TAKEAWAY,Completed,weekday
+O000978,2025-12-03,21:41,199.5,24.5,CASH,TAKEAWAY,Completed,weekday
+O000979,2025-12-03,22:39,324.9,39.9,CASH,,Completed,weekday
+O000980,2025-12-03,15:39,461.7,56.7,card,TAKEAWAY,Completed,weekday
+O000981,2025-12-03,21:55,393.3,48.3,card,Dine in,Completed,weekday
+O000982,2025-12-03,11:41,102.6,12.6,CASH,TAKEAWAY,Completed,weekday
+O000983,2025-12-03,13:58,131.1,16.1,card,Dine in,Completed,weekday
+O000984,2025-12-03,10:02,570.0,70.0,card,TAKEAWAY,Completed,weekday
+O000985,2025-12-03,22:41,570.0,70.0,card,Dine in,Completed,weekday
+O000986,2025-12-03,18:09,205.2,25.2,card,,Completed,weekday
+O000987,2025-12-03,19:34,159.6,19.6,CASH,Dine in,Completed,weekday
+O000988,2025-12-03,18:29,273.6,33.6,card,Dine in,Completed,weekday
+O000989,2025-12-03,15:00,353.4,43.4,CASH,TAKEAWAY,Completed,weekday
+O000990,2025-12-03,15:59,114.0,14.0,CASH,TAKEAWAY,Completed,weekday
+O000991,2025-12-03,13:32,159.6,19.6,card,TAKEAWAY,Completed,weekday
+O000992,2025-12-03,22:45,478.8,58.8,CASH,TAKEAWAY,Completed,weekday
+O000993,2025-12-03,20:26,250.8,30.8,CASH,TAKEAWAY,Completed,weekday
+O000994,2025-12-03,15:04,262.2,32.2,CASH,TAKEAWAY,Completed,weekday
+O000995,2025-12-03,14:16,68.4,8.4,CASH,Dine in,Completed,weekday
+O000996,2025-12-03,19:13,205.2,25.2,card,TAKEAWAY,Completed,weekday
+O000997,2025-12-03,11:05,381.9,46.9,,TAKEAWAY,Completed,weekday
+O000998,2025-12-03,13:34,615.6,75.6,CASH,TAKEAWAY,Completed,weekday
+O000999,2025-12-03,21:54,347.7,42.7,card,Dine in,Completed,weekday
+O001000,2025-12-03,18:25,114.0,14.0,card,TAKEAWAY,Completed,weekday
+O001001,2025-12-03,16:20,228.0,28.0,card,TAKEAWAY,Completed,weekday
+O001002,2025-12-03,11:53,399.0,49.0,card,Dine in,Completed,weekday
+O001003,2025-12-03,18:41,410.4,50.4,card,Dine in,Completed,weekday
+O001004,2025-12-03,22:16,1282.5,157.5,CASH,TAKEAWAY,Completed,weekday
+O001005,2025-12-03,19:36,159.6,19.6,card,TAKEAWAY,Completed,weekday
+O001006,2025-12-03,11:31,387.6,47.6,card,,Completed,weekday
+O001007,2025-12-03,13:14,467.4,57.4,CASH,TAKEAWAY,Completed,weekday
+O001008,2025-12-04,21:33,558.6,68.6,CASH,TAKEAWAY,Completed,Weekend
+O001009,2025-12-04,23:46,980.4,120.4,card,TAKEAWAY,Completed,Weekend
+O001010,2025-12-04,21:16,336.3,41.3,CASH,,Completed,Weekend
+O001011,2025-12-04,20:11,501.6,61.6,card,,Completed,Weekend
+O001012,2025-12-04,21:10,359.1,44.1,card,TAKEAWAY,Completed,Weekend
+O001013,2025-12-04,23:21,741.0,91.0,CASH,TAKEAWAY,Completed,Weekend
+O001014,2025-12-04,19:25,843.6,103.6,card,TAKEAWAY,Completed,Weekend
+O001015,2025-12-04,23:43,513.0,63.0,CASH,TAKEAWAY,Completed,Weekend
+O001016,2025-12-04,22:48,552.9,67.9,card,TAKEAWAY,Completed,Weekend
+O001017,2025-12-04,20:59,820.8,100.8,card,Dine in,Completed,Weekend
+O001018,2025-12-04,21:19,450.3,55.3,CASH,Dine in,Completed,Weekend
+O001019,2025-12-04,18:14,957.6,117.6,CASH,Dine in,Completed,Weekend
+O001020,2025-12-04,22:20,353.4,43.4,CASH,Dine in,Completed,Weekend
+O001021,2025-12-04,22:44,513.0,63.0,CASH,TAKEAWAY,Completed,Weekend
+O001022,2025-12-04,22:33,798.0,98.0,CASH,TAKEAWAY,Completed,Weekend
+O001023,2025-12-04,20:59,820.8,100.8,CASH,TAKEAWAY,Completed,Weekend
+O001024,2025-12-04,22:05,592.8,72.8,card,Dine in,Completed,Weekend
+O001025,2025-12-04,19:37,689.7,84.7,card,Dine in,Completed,Weekend
+O001026,2025-12-04,18:35,495.9,60.9,CASH,TAKEAWAY,Completed,Weekend
+O001027,2025-12-04,20:52,530.1,65.1,CASH,TAKEAWAY,Completed,Weekend
+O001028,2025-12-04,21:19,889.2,109.2,CASH,TAKEAWAY,Completed,Weekend
+O001029,2025-12-04,22:39,427.5,52.5,card,Dine in,Completed,Weekend
+O001030,2025-12-04,20:48,855.0,105.0,card,Dine in,Completed,Weekend
+O001031,2025-12-04,22:34,347.7,42.7,CASH,TAKEAWAY,Completed,Weekend
+O001032,2025-12-04,19:14,421.8,51.8,,Dine in,Completed,Weekend
+O001033,2025-12-04,18:27,763.8,93.8,card,TAKEAWAY,Completed,Weekend
+O001034,2025-12-04,21:55,1493.4,183.4,CASH,Dine in,Completed,Weekend
+O001035,2025-12-04,23:23,547.2,67.2,card,TAKEAWAY,Completed,Weekend
+O001036,2025-12-04,19:59,615.6,75.6,card,,Completed,Weekend
+O001037,2025-12-04,20:02,912.0,112.0,card,Dine in,Completed,Weekend
+O001038,2025-12-04,20:57,410.4,50.4,CASH,TAKEAWAY,Completed,Weekend
+O001039,2025-12-04,22:24,615.6,75.6,CASH,Dine in,Completed,Weekend
+O001040,2025-12-04,19:49,592.8,72.8,CASH,TAKEAWAY,Completed,Weekend
+O001041,2025-12-04,21:47,627.0,77.0,CASH,Dine in,Completed,Weekend
+O001042,2025-12-04,20:08,473.1,58.1,card,TAKEAWAY,Completed,Weekend
+O001043,2025-12-04,18:16,524.4,64.4,card,TAKEAWAY,Completed,Weekend
+O001044,2025-12-04,20:45,866.4,106.4,CASH,Dine in,Completed,Weekend
+O001045,2025-12-04,23:03,798.0,98.0,CASH,,Completed,Weekend
+O001046,2025-12-04,18:07,855.0,105.0,card,,Completed,Weekend
+O001047,2025-12-04,20:34,421.8,51.8,card,TAKEAWAY,Completed,Weekend
+O001048,2025-12-04,20:27,661.2,81.2,card,,Completed,Weekend
+O001049,2025-12-04,22:28,1117.2,137.2,card,Dine in,Completed,Weekend
+O001050,2025-12-04,18:28,433.2,53.2,card,TAKEAWAY,Completed,Weekend
+O001051,2025-12-04,20:05,723.9,88.9,card,TAKEAWAY,Completed,Weekend
+O001052,2025-12-04,22:34,501.6,61.6,card,Dine in,Completed,Weekend
+O001053,2025-12-04,20:46,507.3,62.3,CASH,Dine in,Completed,Weekend
+O001054,2025-12-04,22:47,547.2,67.2,CASH,Dine in,Completed,Weekend
+O001055,2025-12-04,22:41,917.7,112.7,,Dine in,Completed,Weekend
+O001056,2025-12-04,20:01,501.6,61.6,CASH,Dine in,Completed,Weekend
+O001057,2025-12-04,22:42,615.6,75.6,card,TAKEAWAY,Completed,Weekend
+O001058,2025-12-04,19:48,832.2,102.2,,Dine in,Completed,Weekend
+O001059,2025-12-04,20:55,615.6,75.6,card,,Completed,Weekend
+O001060,2025-12-04,22:23,649.8,79.8,card,TAKEAWAY,Completed,Weekend
+O001061,2025-12-04,21:24,250.8,30.8,CASH,Dine in,Completed,Weekend
+O001062,2025-12-04,21:31,262.2,32.2,CASH,Dine in,Completed,Weekend
+O001063,2025-12-04,20:27,792.3,97.3,card,Dine in,Completed,Weekend
+O001064,2025-12-04,19:35,792.3,97.3,card,TAKEAWAY,Completed,Weekend
+O001065,2025-12-04,19:00,963.3,118.3,CASH,TAKEAWAY,Completed,Weekend
+O001066,2025-12-04,21:23,524.4,64.4,CASH,TAKEAWAY,Completed,Weekend
+O001067,2025-12-04,19:28,456.0,56.0,,Dine in,Completed,Weekend
+O001068,2025-12-04,21:45,1071.6,131.6,CASH,Dine in,Completed,Weekend
+O001069,2025-12-04,19:06,729.6,89.6,card,TAKEAWAY,Completed,Weekend
+O001070,2025-12-04,22:28,775.2,95.2,,Dine in,Completed,Weekend
+O001071,2025-12-04,23:56,410.4,50.4,CASH,Dine in,Completed,Weekend
+O001072,2025-12-04,22:57,627.0,77.0,,,Completed,Weekend
+O001073,2025-12-04,22:48,535.8,65.8,CASH,Dine in,Completed,Weekend
+O001074,2025-12-04,21:14,456.0,56.0,,Dine in,Completed,Weekend
+O001075,2025-12-04,18:57,837.9,102.9,CASH,TAKEAWAY,Completed,Weekend
+O001076,2025-12-04,22:18,1003.2,123.2,card,TAKEAWAY,Completed,Weekend
+O001077,2025-12-04,21:11,872.1,107.1,card,TAKEAWAY,Completed,Weekend
+O001078,2025-12-04,20:40,649.8,79.8,card,TAKEAWAY,Completed,Weekend
+O001079,2025-12-04,20:57,501.6,61.6,CASH,Dine in,Completed,Weekend
+O001080,2025-12-04,18:27,478.8,58.8,CASH,TAKEAWAY,Completed,Weekend
+O001081,2025-12-04,23:57,792.3,97.3,card,TAKEAWAY,Completed,Weekend
+O001082,2025-12-04,22:57,615.6,75.6,card,TAKEAWAY,Completed,Weekend
+O001083,2025-12-04,21:42,1111.5,136.5,card,TAKEAWAY,Completed,Weekend
+O001084,2025-12-04,19:23,364.8,44.8,card,TAKEAWAY,Completed,Weekend
+O001085,2025-12-04,19:18,501.6,61.6,card,Dine in,Completed,Weekend
+O001086,2025-12-04,18:19,855.0,105.0,CASH,Dine in,Completed,Weekend
+O001087,2025-12-04,22:46,969.0,119.0,CASH,Dine in,Completed,Weekend
+O001088,2025-12-04,20:05,495.9,60.9,card,TAKEAWAY,Completed,Weekend
+O001089,2025-12-04,18:35,461.7,56.7,CASH,TAKEAWAY,Completed,Weekend
+O001090,2025-12-04,19:25,763.8,93.8,card,TAKEAWAY,Completed,Weekend
+O001091,2025-12-04,21:06,136.8,16.8,card,TAKEAWAY,Completed,Weekend
+O001092,2025-12-04,18:55,729.6,89.6,CASH,TAKEAWAY,Completed,Weekend
+O001093,2025-12-04,18:06,1219.8,149.8,CASH,TAKEAWAY,Completed,Weekend
+O001094,2025-12-04,20:32,775.2,95.2,card,TAKEAWAY,Completed,Weekend
+O001095,2025-12-04,20:30,655.5,80.5,card,,Completed,Weekend
+O001096,2025-12-04,21:39,809.4,99.4,CASH,Dine in,Completed,Weekend
+O001097,2025-12-04,22:06,991.8,121.8,CASH,,Completed,Weekend
+O001098,2025-12-04,18:48,820.8,100.8,CASH,Dine in,Completed,Weekend
+O001099,2025-12-04,19:56,461.7,56.7,CASH,TAKEAWAY,Completed,Weekend
+O001100,2025-12-04,23:07,376.2,46.2,card,TAKEAWAY,Completed,Weekend
+O001101,2025-12-04,21:21,991.8,121.8,card,TAKEAWAY,Completed,Weekend
+O001102,2025-12-04,22:07,775.2,95.2,CASH,Dine in,Completed,Weekend
+O001103,2025-12-04,19:33,649.8,79.8,CASH,Dine in,Completed,Weekend
+O001104,2025-12-04,20:08,364.8,44.8,card,Dine in,Completed,Weekend
+O001105,2025-12-04,22:38,461.7,56.7,card,TAKEAWAY,Completed,Weekend
+O001106,2025-12-04,21:45,912.0,112.0,CASH,TAKEAWAY,Completed,Weekend
+O001107,2025-12-04,22:41,296.4,36.4,CASH,Dine in,Completed,Weekend
+O001108,2025-12-04,18:54,524.4,64.4,card,Dine in,Completed,Weekend
+O001109,2025-12-04,21:12,627.0,77.0,CASH,TAKEAWAY,Completed,Weekend
+O001110,2025-12-04,22:34,775.2,95.2,CASH,Dine in,Completed,Weekend
+O001111,2025-12-04,22:38,558.6,68.6,CASH,Dine in,Completed,Weekend
+O001112,2025-12-05,23:47,746.7,91.7,card,TAKEAWAY,Completed,Weekend
+O001113,2025-12-05,21:50,855.0,105.0,card,Dine in,Completed,Weekend
+O001114,2025-12-05,23:54,980.4,120.4,CASH,Dine in,Completed,Weekend
+O001115,2025-12-05,20:21,877.8,107.8,card,Dine in,Completed,Weekend
+O001116,2025-12-05,23:58,433.2,53.2,CASH,Dine in,Completed,Weekend
+O001117,2025-12-05,22:40,370.5,45.5,card,TAKEAWAY,Completed,Weekend
+O001118,2025-12-05,21:39,364.8,44.8,card,Dine in,Completed,Weekend
+O001119,2025-12-05,21:34,672.6,82.6,card,TAKEAWAY,Completed,Weekend
+O001120,2025-12-05,22:05,1122.9,137.9,,Dine in,Completed,Weekend
+O001121,2025-12-05,19:29,627.0,77.0,card,Dine in,Completed,Weekend
+O001122,2025-12-05,21:37,729.6,89.6,card,Dine in,Completed,Weekend
+O001123,2025-12-05,21:05,615.6,75.6,CASH,Dine in,Completed,Weekend
+O001124,2025-12-05,19:03,513.0,63.0,CASH,,Completed,Weekend
+O001125,2025-12-05,21:30,171.0,21.0,card,Dine in,Completed,Weekend
+O001126,2025-12-05,19:08,490.2,60.2,card,Dine in,Completed,Weekend
+O001127,2025-12-05,18:20,1048.8,128.8,CASH,Dine in,Completed,Weekend
+O001128,2025-12-05,20:09,752.4,92.4,CASH,TAKEAWAY,Completed,Weekend
+O001129,2025-12-05,22:17,1117.2,137.2,CASH,Dine in,Completed,Weekend
+O001130,2025-12-05,22:56,609.9,74.9,CASH,TAKEAWAY,Completed,Weekend
+O001131,2025-12-05,19:10,980.4,120.4,CASH,TAKEAWAY,Completed,Weekend
+O001132,2025-12-05,21:28,484.5,59.5,CASH,Dine in,Completed,Weekend
+O001133,2025-12-05,19:54,604.2,74.2,card,TAKEAWAY,Completed,Weekend
+O001134,2025-12-05,20:56,763.8,93.8,card,Dine in,Completed,Weekend
+O001135,2025-12-05,19:27,570.0,70.0,card,,Completed,Weekend
+O001136,2025-12-05,23:08,399.0,49.0,,Dine in,Completed,Weekend
+O001137,2025-12-05,21:09,1333.8,163.8,CASH,Dine in,Completed,Weekend
+O001138,2025-12-05,18:14,627.0,77.0,card,Dine in,Completed,Weekend
+O001139,2025-12-05,20:02,421.8,51.8,card,TAKEAWAY,Completed,Weekend
+O001140,2025-12-05,20:46,877.8,107.8,CASH,TAKEAWAY,Completed,Weekend
+O001141,2025-12-05,20:36,655.5,80.5,CASH,Dine in,Completed,Weekend
+O001142,2025-12-05,21:37,1333.8,163.8,CASH,,Completed,Weekend
+O001143,2025-12-05,23:48,638.4,78.4,card,Dine in,Completed,Weekend
+O001144,2025-12-05,18:14,969.0,119.0,CASH,TAKEAWAY,Completed,Weekend
+O001145,2025-12-05,21:12,912.0,112.0,CASH,Dine in,Completed,Weekend
+O001146,2025-12-05,22:07,558.6,68.6,CASH,TAKEAWAY,Completed,Weekend
+O001147,2025-12-05,23:59,535.8,65.8,card,TAKEAWAY,Completed,Weekend
+O001148,2025-12-05,19:23,803.7,98.7,CASH,Dine in,Completed,Weekend
+O001149,2025-12-05,18:43,421.8,51.8,CASH,TAKEAWAY,Completed,Weekend
+O001150,2025-12-05,23:32,826.5,101.5,card,Dine in,Completed,Weekend
+O001151,2025-12-05,20:48,438.9,53.9,card,TAKEAWAY,Completed,Weekend
+O001152,2025-12-05,18:32,684.0,84.0,CASH,TAKEAWAY,Completed,Weekend
+O001153,2025-12-05,22:11,1459.2,179.2,card,Dine in,Completed,Weekend
+O001154,2025-12-05,22:11,638.4,78.4,card,Dine in,Completed,Weekend
+O001155,2025-12-05,23:05,877.8,107.8,CASH,Dine in,Completed,Weekend
+O001156,2025-12-05,23:16,501.6,61.6,card,Dine in,Completed,Weekend
+O001157,2025-12-05,20:31,535.8,65.8,card,Dine in,Completed,Weekend
+O001158,2025-12-05,20:18,364.8,44.8,CASH,,Completed,Weekend
+O001159,2025-12-05,19:38,820.8,100.8,CASH,TAKEAWAY,Completed,Weekend
+O001160,2025-12-05,23:33,746.7,91.7,CASH,,Completed,Weekend
+O001161,2025-12-05,23:53,467.4,57.4,,TAKEAWAY,Completed,Weekend
+O001162,2025-12-05,20:40,467.4,57.4,card,TAKEAWAY,Completed,Weekend
+O001163,2025-12-05,20:13,1926.6,236.6,card,TAKEAWAY,Completed,Weekend
+O001164,2025-12-05,18:23,957.6,117.6,,TAKEAWAY,Completed,Weekend
+O001165,2025-12-05,20:55,262.2,32.2,CASH,TAKEAWAY,Completed,Weekend
+O001166,2025-12-05,22:17,450.3,55.3,CASH,Dine in,Completed,Weekend
+O001167,2025-12-05,18:29,615.6,75.6,card,Dine in,Completed,Weekend
+O001168,2025-12-05,21:29,592.8,72.8,card,TAKEAWAY,Completed,Weekend
+O001169,2025-12-05,18:22,775.2,95.2,CASH,TAKEAWAY,Completed,Weekend
+O001170,2025-12-05,23:45,809.4,99.4,card,Dine in,Completed,Weekend
+O001171,2025-12-05,19:49,604.2,74.2,card,TAKEAWAY,Completed,Weekend
+O001172,2025-12-05,20:09,524.4,64.4,card,TAKEAWAY,Completed,Weekend
+O001173,2025-12-05,20:05,342.0,42.0,,Dine in,Completed,Weekend
+O001174,2025-12-05,21:55,1060.2,130.2,card,Dine in,Completed,Weekend
+O001175,2025-12-05,22:24,530.1,65.1,CASH,TAKEAWAY,Completed,Weekend
+O001176,2025-12-05,22:01,604.2,74.2,card,TAKEAWAY,Completed,Weekend
+O001177,2025-12-05,20:26,917.7,112.7,CASH,Dine in,Completed,Weekend
+O001178,2025-12-05,18:22,1071.6,131.6,CASH,TAKEAWAY,Completed,Weekend
+O001179,2025-12-05,21:30,1037.4,127.4,CASH,TAKEAWAY,Completed,Weekend
+O001180,2025-12-05,22:28,478.8,58.8,card,TAKEAWAY,Completed,Weekend
+O001181,2025-12-05,18:37,535.8,65.8,CASH,Dine in,Completed,Weekend
+O001182,2025-12-05,22:12,684.0,84.0,card,TAKEAWAY,Completed,Weekend
+O001183,2025-12-05,22:48,1026.0,126.0,CASH,,Completed,Weekend
+O001184,2025-12-05,20:50,729.6,89.6,CASH,Dine in,Completed,Weekend
+O001185,2025-12-05,19:20,467.4,57.4,CASH,TAKEAWAY,Completed,Weekend
+O001186,2025-12-05,19:42,250.8,30.8,CASH,,Completed,Weekend
+O001187,2025-12-05,18:39,638.4,78.4,CASH,TAKEAWAY,Completed,Weekend
+O001188,2025-12-05,20:53,860.7,105.7,card,TAKEAWAY,Completed,Weekend
+O001189,2025-12-05,20:50,980.4,120.4,CASH,TAKEAWAY,Completed,Weekend
+O001190,2025-12-05,22:28,929.1,114.1,card,TAKEAWAY,Completed,Weekend
+O001191,2025-12-05,22:18,444.6,54.6,card,TAKEAWAY,Completed,Weekend
+O001192,2025-12-05,19:05,1026.0,126.0,card,TAKEAWAY,Completed,Weekend
+O001193,2025-12-05,23:43,684.0,84.0,card,TAKEAWAY,Completed,Weekend
+O001194,2025-12-05,20:06,752.4,92.4,CASH,Dine in,Completed,Weekend
+O001195,2025-12-05,20:35,661.2,81.2,card,Dine in,Completed,Weekend
+O001196,2025-12-05,19:08,501.6,61.6,CASH,TAKEAWAY,Completed,Weekend
+O001197,2025-12-05,18:50,581.4,71.4,CASH,TAKEAWAY,Completed,Weekend
+O001198,2025-12-05,18:33,672.6,82.6,card,TAKEAWAY,Completed,Weekend
+O001199,2025-12-05,22:44,763.8,93.8,CASH,Dine in,Completed,Weekend
+O001200,2025-12-05,22:06,946.2,116.2,card,TAKEAWAY,Completed,Weekend
+O001201,2025-12-05,20:59,558.6,68.6,CASH,Dine in,Completed,Weekend
+O001202,2025-12-05,21:55,598.5,73.5,card,Dine in,Completed,Weekend
+O001203,2025-12-05,19:34,672.6,82.6,CASH,Dine in,Completed,Weekend
+O001204,2025-12-05,20:55,695.4,85.4,CASH,Dine in,Completed,Weekend
+O001205,2025-12-05,23:57,399.0,49.0,card,TAKEAWAY,Completed,Weekend
+O001206,2025-12-05,19:36,558.6,68.6,CASH,Dine in,Completed,Weekend
+O001207,2025-12-05,18:15,490.2,60.2,CASH,Dine in,Completed,Weekend
+O001208,2025-12-05,22:29,969.0,119.0,card,Dine in,Completed,Weekend
+O001209,2025-12-05,18:41,672.6,82.6,card,TAKEAWAY,Completed,Weekend
+O001210,2025-12-05,19:33,900.6,110.6,CASH,TAKEAWAY,Completed,Weekend
+O001211,2025-12-05,18:13,763.8,93.8,card,TAKEAWAY,Completed,Weekend
+O001212,2025-12-05,18:15,456.0,56.0,card,TAKEAWAY,Completed,Weekend
+O001213,2025-12-05,21:35,991.8,121.8,card,TAKEAWAY,Completed,Weekend
+O001214,2025-12-05,21:28,877.8,107.8,card,Dine in,Completed,Weekend
+O001215,2025-12-05,19:43,929.1,114.1,card,Dine in,Completed,Weekend
+O001216,2025-12-05,20:15,752.4,92.4,CASH,TAKEAWAY,Completed,Weekend
+O001217,2025-12-05,18:37,729.6,89.6,card,Dine in,Completed,Weekend
+O001218,2025-12-05,23:14,433.2,53.2,CASH,,Completed,Weekend
+O001219,2025-12-05,18:24,604.2,74.2,card,Dine in,Completed,Weekend
+O001220,2025-12-05,20:45,627.0,77.0,CASH,Dine in,Completed,Weekend
+O001221,2025-12-05,19:17,609.9,74.9,CASH,Dine in,Completed,Weekend
+O001222,2025-12-05,21:30,433.2,53.2,card,,Completed,Weekend
+O001223,2025-12-05,23:28,513.0,63.0,CASH,Dine in,Completed,Weekend
+O001224,2025-12-05,22:57,1065.9,130.9,CASH,TAKEAWAY,Completed,Weekend
+O001225,2025-12-06,23:11,860.7,105.7,CASH,Dine in,Completed,Weekend
+O001226,2025-12-06,21:40,421.8,51.8,card,TAKEAWAY,Completed,Weekend
+O001227,2025-12-06,21:31,638.4,78.4,card,Dine in,Completed,Weekend
+O001228,2025-12-06,22:58,684.0,84.0,CASH,Dine in,Completed,Weekend
+O001229,2025-12-06,22:29,1208.4,148.4,,,Completed,Weekend
+O001230,2025-12-06,18:44,604.2,74.2,card,Dine in,Completed,Weekend
+O001231,2025-12-06,23:38,364.8,44.8,card,Dine in,Completed,Weekend
+O001232,2025-12-06,19:37,661.2,81.2,CASH,,Completed,Weekend
+O001233,2025-12-06,21:58,615.6,75.6,CASH,Dine in,Completed,Weekend
+O001234,2025-12-06,21:09,478.8,58.8,CASH,TAKEAWAY,Completed,Weekend
+O001235,2025-12-06,23:49,456.0,56.0,CASH,TAKEAWAY,Completed,Weekend
+O001236,2025-12-06,22:42,421.8,51.8,CASH,TAKEAWAY,Completed,Weekend
+O001237,2025-12-06,21:07,410.4,50.4,,TAKEAWAY,Completed,Weekend
+O001238,2025-12-06,18:14,912.0,112.0,card,TAKEAWAY,Completed,Weekend
+O001239,2025-12-06,21:42,461.7,56.7,CASH,TAKEAWAY,Completed,Weekend
+O001240,2025-12-06,22:45,775.2,95.2,card,Dine in,Completed,Weekend
+O001241,2025-12-06,21:13,558.6,68.6,card,,Completed,Weekend
+O001242,2025-12-06,21:10,775.2,95.2,card,TAKEAWAY,Completed,Weekend
+O001243,2025-12-06,19:29,364.8,44.8,CASH,Dine in,Completed,Weekend
+O001244,2025-12-06,23:22,866.4,106.4,card,,Completed,Weekend
+O001245,2025-12-06,23:43,672.6,82.6,CASH,Dine in,Completed,Weekend
+O001246,2025-12-06,19:25,541.5,66.5,card,Dine in,Completed,Weekend
+O001247,2025-12-06,19:05,684.0,84.0,card,TAKEAWAY,Completed,Weekend
+O001248,2025-12-06,21:07,558.6,68.6,card,TAKEAWAY,Completed,Weekend
+O001249,2025-12-06,18:29,381.9,46.9,card,TAKEAWAY,Completed,Weekend
+O001250,2025-12-06,23:55,991.8,121.8,card,Dine in,Completed,Weekend
+O001251,2025-12-06,22:54,649.8,79.8,CASH,TAKEAWAY,Completed,Weekend
+O001252,2025-12-06,23:50,495.9,60.9,CASH,Dine in,Completed,Weekend
+O001253,2025-12-06,21:09,552.9,67.9,CASH,Dine in,Completed,Weekend
+O001254,2025-12-06,19:26,632.7,77.7,card,Dine in,Completed,Weekend
+O001255,2025-12-06,21:26,456.0,56.0,card,TAKEAWAY,Completed,Weekend
+O001256,2025-12-06,21:28,706.8,86.8,CASH,TAKEAWAY,Completed,Weekend
+O001257,2025-12-06,22:38,387.6,47.6,CASH,,Completed,Weekend
+O001258,2025-12-06,20:58,752.4,92.4,CASH,TAKEAWAY,Completed,Weekend
+O001259,2025-12-06,18:16,1071.6,131.6,card,Dine in,Completed,Weekend
+O001260,2025-12-06,22:41,1402.2,172.2,card,Dine in,Completed,Weekend
+O001261,2025-12-06,21:59,1675.8,205.8,CASH,TAKEAWAY,Completed,Weekend
+O001262,2025-12-06,22:41,1003.2,123.2,CASH,TAKEAWAY,Completed,Weekend
+O001263,2025-12-06,19:03,860.7,105.7,card,TAKEAWAY,Completed,Weekend
+O001264,2025-12-06,20:57,729.6,89.6,card,TAKEAWAY,Completed,Weekend
+O001265,2025-12-06,21:48,969.0,119.0,,,Completed,Weekend
+O001266,2025-12-06,19:36,638.4,78.4,CASH,TAKEAWAY,Completed,Weekend
+O001267,2025-12-06,18:06,900.6,110.6,CASH,Dine in,Completed,Weekend
+O001268,2025-12-06,20:20,832.2,102.2,CASH,Dine in,Completed,Weekend
+O001269,2025-12-06,19:12,923.4,113.4,CASH,TAKEAWAY,Completed,Weekend
+O001270,2025-12-06,20:06,741.0,91.0,card,Dine in,Completed,Weekend
+O001271,2025-12-06,23:18,826.5,101.5,CASH,Dine in,Completed,Weekend
+O001272,2025-12-06,23:19,1020.3,125.3,,Dine in,Completed,Weekend
+O001273,2025-12-06,20:24,547.2,67.2,CASH,Dine in,Completed,Weekend
+O001274,2025-12-06,20:33,837.9,102.9,CASH,TAKEAWAY,Completed,Weekend
+O001275,2025-12-06,19:49,741.0,91.0,card,TAKEAWAY,Completed,Weekend
+O001276,2025-12-06,19:18,507.3,62.3,card,Dine in,Completed,Weekend
+O001277,2025-12-06,19:04,615.6,75.6,CASH,Dine in,Completed,Weekend
+O001278,2025-12-06,18:47,735.3,90.3,CASH,Dine in,Completed,Weekend
+O001279,2025-12-06,23:08,438.9,53.9,card,TAKEAWAY,Completed,Weekend
+O001280,2025-12-06,19:07,1094.4,134.4,card,Dine in,Completed,Weekend
+O001281,2025-12-06,19:40,376.2,46.2,CASH,TAKEAWAY,Completed,Weekend
+O001282,2025-12-06,21:27,547.2,67.2,card,TAKEAWAY,Completed,Weekend
+O001283,2025-12-06,21:16,495.9,60.9,card,Dine in,Completed,Weekend
+O001284,2025-12-06,20:59,347.7,42.7,card,TAKEAWAY,Completed,Weekend
+O001285,2025-12-06,22:02,695.4,85.4,CASH,TAKEAWAY,Completed,Weekend
+O001286,2025-12-06,20:47,866.4,106.4,CASH,TAKEAWAY,Completed,Weekend
+O001287,2025-12-06,20:55,1584.6,194.6,CASH,,Completed,Weekend
+O001288,2025-12-06,22:21,729.6,89.6,card,Dine in,Completed,Weekend
+O001289,2025-12-06,20:46,752.4,92.4,card,TAKEAWAY,Completed,Weekend
+O001290,2025-12-06,19:57,729.6,89.6,card,TAKEAWAY,Completed,Weekend
+O001291,2025-12-06,19:51,518.7,63.7,CASH,TAKEAWAY,Completed,Weekend
+O001292,2025-12-06,20:01,991.8,121.8,card,TAKEAWAY,Completed,Weekend
+O001293,2025-12-06,19:48,1105.8,135.8,card,TAKEAWAY,Completed,Weekend
+O001294,2025-12-06,18:39,490.2,60.2,card,,Completed,Weekend
+O001295,2025-12-06,23:51,478.8,58.8,card,TAKEAWAY,Completed,Weekend
+O001296,2025-12-06,21:29,855.0,105.0,card,Dine in,Completed,Weekend
+O001297,2025-12-06,21:57,695.4,85.4,,Dine in,Completed,Weekend
+O001298,2025-12-06,21:34,570.0,70.0,card,Dine in,Completed,Weekend
+O001299,2025-12-06,20:56,723.9,88.9,CASH,TAKEAWAY,Completed,Weekend
+O001300,2025-12-06,18:34,986.1,121.1,card,TAKEAWAY,Completed,Weekend
+O001301,2025-12-06,22:26,273.6,33.6,card,Dine in,Completed,Weekend
+O001302,2025-12-06,19:16,456.0,56.0,card,TAKEAWAY,Completed,Weekend
+O001303,2025-12-06,20:42,490.2,60.2,card,TAKEAWAY,Completed,Weekend
+O001304,2025-12-06,18:02,587.1,72.1,card,TAKEAWAY,Completed,Weekend
+O001305,2025-12-06,18:50,547.2,67.2,card,,Completed,Weekend
+O001306,2025-12-06,22:01,501.6,61.6,CASH,Dine in,Completed,Weekend
+O001307,2025-12-06,18:10,279.3,34.3,CASH,Dine in,Completed,Weekend
+O001308,2025-12-06,22:06,775.2,95.2,CASH,TAKEAWAY,Completed,Weekend
+O001309,2025-12-06,22:19,786.6,96.6,CASH,Dine in,Completed,Weekend
+O001310,2025-12-06,20:12,490.2,60.2,card,Dine in,Completed,Weekend
+O001311,2025-12-06,20:38,421.8,51.8,CASH,TAKEAWAY,Completed,Weekend
+O001312,2025-12-06,22:04,695.4,85.4,card,Dine in,Completed,Weekend
+O001313,2025-12-06,22:30,524.4,64.4,card,TAKEAWAY,Completed,Weekend
+O001314,2025-12-06,21:38,877.8,107.8,,TAKEAWAY,Completed,Weekend
+O001315,2025-12-07,20:26,285.0,35.0,card,Dine in,Completed,weekday
+O001316,2025-12-07,22:47,387.6,47.6,card,TAKEAWAY,Completed,weekday
+O001317,2025-12-07,10:50,102.6,12.6,card,TAKEAWAY,Completed,weekday
+O001318,2025-12-07,17:44,478.8,58.8,card,Dine in,Completed,weekday
+O001319,2025-12-07,12:54,296.4,36.4,card,TAKEAWAY,Completed,weekday
+O001320,2025-12-07,16:41,399.0,49.0,CASH,TAKEAWAY,Completed,weekday
+O001321,2025-12-07,16:42,285.0,35.0,CASH,Dine in,Completed,weekday
+O001322,2025-12-07,17:50,399.0,49.0,,TAKEAWAY,Completed,weekday
+O001323,2025-12-07,21:50,330.6,40.6,card,Dine in,Completed,weekday
+O001324,2025-12-07,22:14,228.0,28.0,card,TAKEAWAY,Completed,weekday
+O001325,2025-12-07,16:48,0.0,0.0,CASH,TAKEAWAY,Completed,weekday
+O001326,2025-12-07,12:24,467.4,57.4,card,Dine in,Completed,weekday
+O001327,2025-12-07,12:54,307.8,37.8,card,TAKEAWAY,Completed,weekday
+O001328,2025-12-07,18:44,319.2,39.2,CASH,TAKEAWAY,Completed,weekday
+O001329,2025-12-07,11:37,501.6,61.6,,,Completed,weekday
+O001330,2025-12-07,11:02,302.1,37.1,CASH,Dine in,Completed,weekday
+O001331,2025-12-07,22:00,364.8,44.8,,Dine in,Completed,weekday
+O001332,2025-12-07,13:41,273.6,33.6,card,Dine in,Completed,weekday
+O001333,2025-12-07,18:35,501.6,61.6,CASH,TAKEAWAY,Completed,weekday
+O001334,2025-12-07,11:01,136.8,16.8,CASH,Dine in,Completed,weekday
+O001335,2025-12-07,15:35,433.2,53.2,CASH,TAKEAWAY,Completed,weekday
+O001336,2025-12-07,11:27,228.0,28.0,card,TAKEAWAY,Completed,weekday
+O001337,2025-12-07,13:44,421.8,51.8,CASH,TAKEAWAY,Completed,weekday
+O001338,2025-12-07,11:50,62.7,7.7,card,TAKEAWAY,Completed,weekday
+O001339,2025-12-07,17:51,387.6,47.6,card,TAKEAWAY,Completed,weekday
+O001340,2025-12-07,21:02,490.2,60.2,card,Dine in,Completed,weekday
+O001341,2025-12-07,20:18,125.4,15.4,CASH,Dine in,Completed,weekday
+O001342,2025-12-07,18:50,262.2,32.2,,Dine in,Completed,weekday
+O001343,2025-12-07,20:33,342.0,42.0,card,TAKEAWAY,Completed,weekday
+O001344,2025-12-07,15:05,125.4,15.4,CASH,Dine in,Completed,weekday
+O001345,2025-12-07,16:09,148.2,18.2,card,Dine in,Completed,weekday
+O001346,2025-12-07,12:04,456.0,56.0,CASH,Dine in,Completed,weekday
+O001347,2025-12-07,12:09,148.2,18.2,card,TAKEAWAY,Completed,weekday
+O001348,2025-12-07,13:49,182.4,22.4,,TAKEAWAY,Completed,weekday
+O001349,2025-12-07,16:27,0.0,0.0,card,Dine in,Completed,weekday
+O001350,2025-12-07,11:03,324.9,39.9,CASH,Dine in,Completed,weekday
+O001351,2025-12-07,12:12,319.2,39.2,CASH,,Completed,weekday
+O001352,2025-12-07,20:10,535.8,65.8,card,TAKEAWAY,Completed,weekday
+O001353,2025-12-07,14:00,239.4,29.4,CASH,TAKEAWAY,Completed,weekday
+O001354,2025-12-08,18:45,1761.3,216.3,card,Dine in,Completed,weekday
+O001355,2025-12-08,10:29,319.2,39.2,CASH,TAKEAWAY,Completed,weekday
+O001356,2025-12-08,22:56,467.4,57.4,card,TAKEAWAY,Completed,weekday
+O001357,2025-12-08,20:33,228.0,28.0,card,Dine in,Completed,weekday
+O001358,2025-12-08,20:17,0.0,0.0,card,TAKEAWAY,Completed,weekday
+O001359,2025-12-08,14:35,256.5,31.5,CASH,TAKEAWAY,Completed,weekday
+O001360,2025-12-08,17:55,296.4,36.4,card,TAKEAWAY,Completed,weekday
+O001361,2025-12-08,11:47,114.0,14.0,card,Dine in,Completed,weekday
+O001362,2025-12-08,20:59,364.8,44.8,CASH,TAKEAWAY,Completed,weekday
+O001363,2025-12-08,13:29,752.4,92.4,card,TAKEAWAY,Completed,weekday
+O001364,2025-12-08,12:50,153.9,18.9,CASH,TAKEAWAY,Completed,weekday
+O001365,2025-12-08,15:22,296.4,36.4,CASH,Dine in,Completed,weekday
+O001366,2025-12-08,18:51,216.6,26.6,CASH,TAKEAWAY,Completed,weekday
+O001367,2025-12-08,21:23,501.6,61.6,CASH,TAKEAWAY,Completed,weekday
+O001368,2025-12-08,21:52,296.4,36.4,,Dine in,Completed,weekday
+O001369,2025-12-08,17:30,148.2,18.2,CASH,Dine in,Completed,weekday
+O001370,2025-12-08,19:34,592.8,72.8,CASH,TAKEAWAY,Completed,weekday
+O001371,2025-12-08,18:22,68.4,8.4,,Dine in,Completed,weekday
+O001372,2025-12-08,11:02,171.0,21.0,CASH,Dine in,Completed,weekday
+O001373,2025-12-08,18:00,1482.0,182.0,CASH,TAKEAWAY,Completed,weekday
+O001374,2025-12-08,19:09,102.6,12.6,CASH,TAKEAWAY,Completed,weekday
+O001375,2025-12-08,22:00,210.9,25.9,card,TAKEAWAY,Completed,weekday
+O001376,2025-12-08,15:02,210.9,25.9,,Dine in,Completed,weekday
+O001377,2025-12-08,10:13,513.0,63.0,CASH,,Completed,weekday
+O001378,2025-12-08,10:23,279.3,34.3,CASH,TAKEAWAY,Completed,weekday
+O001379,2025-12-08,14:20,376.2,46.2,CASH,Dine in,Completed,weekday
+O001380,2025-12-08,17:43,695.4,85.4,card,TAKEAWAY,Completed,weekday
+O001381,2025-12-08,10:58,114.0,14.0,card,TAKEAWAY,Completed,weekday
+O001382,2025-12-08,17:03,171.0,21.0,card,TAKEAWAY,Completed,weekday
+O001383,2025-12-08,21:55,0.0,0.0,card,Dine in,Completed,weekday
+O001384,2025-12-08,20:00,125.4,15.4,,TAKEAWAY,Completed,weekday
+O001385,2025-12-08,19:47,228.0,28.0,,TAKEAWAY,Completed,weekday
+O001386,2025-12-08,19:22,478.8,58.8,,TAKEAWAY,Completed,weekday
+O001387,2025-12-08,14:08,79.8,9.8,CASH,TAKEAWAY,Completed,weekday
+O001388,2025-12-08,22:12,125.4,15.4,CASH,Dine in,Completed,weekday
+O001389,2025-12-08,12:35,136.8,16.8,card,Dine in,Completed,weekday
+O001390,2025-12-08,11:01,296.4,36.4,CASH,Dine in,Completed,weekday
+O001391,2025-12-08,16:12,159.6,19.6,CASH,Dine in,Completed,weekday
+O001392,2025-12-08,15:09,216.6,26.6,card,TAKEAWAY,Completed,weekday
+O001393,2025-12-08,18:53,421.8,51.8,,TAKEAWAY,Completed,weekday
+O001394,2025-12-09,19:57,273.6,33.6,CASH,TAKEAWAY,Completed,weekday
+O001395,2025-12-09,11:45,444.6,54.6,CASH,TAKEAWAY,Completed,weekday
+O001396,2025-12-09,17:45,399.0,49.0,card,,Completed,weekday
+O001397,2025-12-09,18:31,627.0,77.0,card,TAKEAWAY,Completed,weekday
+O001398,2025-12-09,14:02,433.2,53.2,CASH,,Completed,weekday
+O001399,2025-12-09,17:47,490.2,60.2,card,TAKEAWAY,Completed,weekday
+O001400,2025-12-09,12:09,193.8,23.8,CASH,TAKEAWAY,Completed,weekday
+O001401,2025-12-09,13:34,216.6,26.6,CASH,TAKEAWAY,Completed,weekday
+O001402,2025-12-09,13:25,68.4,8.4,card,TAKEAWAY,Completed,weekday
+O001403,2025-12-09,17:34,387.6,47.6,CASH,Dine in,Completed,weekday
+O001404,2025-12-09,22:41,125.4,15.4,CASH,Dine in,Completed,weekday
+O001405,2025-12-09,21:29,296.4,36.4,CASH,Dine in,Completed,weekday
+O001406,2025-12-09,10:32,330.6,40.6,card,TAKEAWAY,Completed,weekday
+O001407,2025-12-09,12:12,535.8,65.8,card,Dine in,Completed,weekday
+O001408,2025-12-09,11:11,182.4,22.4,CASH,TAKEAWAY,Completed,weekday
+O001409,2025-12-09,16:50,216.6,26.6,card,Dine in,Completed,weekday
+O001410,2025-12-09,19:30,399.0,49.0,card,TAKEAWAY,Completed,weekday
+O001411,2025-12-09,10:30,387.6,47.6,card,TAKEAWAY,Completed,weekday
+O001412,2025-12-09,13:15,273.6,33.6,CASH,TAKEAWAY,Completed,weekday
+O001413,2025-12-09,11:55,342.0,42.0,card,TAKEAWAY,Completed,weekday
+O001414,2025-12-09,14:11,285.0,35.0,card,TAKEAWAY,Completed,weekday
+O001415,2025-12-09,12:24,290.7,35.7,CASH,TAKEAWAY,Completed,weekday
+O001416,2025-12-09,14:36,307.8,37.8,CASH,TAKEAWAY,Completed,weekday
+O001417,2025-12-09,20:56,188.1,23.1,card,TAKEAWAY,Completed,weekday
+O001418,2025-12-09,11:52,456.0,56.0,CASH,TAKEAWAY,Completed,weekday
+O001419,2025-12-09,17:37,171.0,21.0,,Dine in,Completed,weekday
+O001420,2025-12-09,16:22,114.0,14.0,card,Dine in,Completed,weekday
+O001421,2025-12-09,13:00,96.9,11.9,card,Dine in,Completed,weekday
+O001422,2025-12-09,12:43,513.0,63.0,CASH,TAKEAWAY,Completed,weekday
+O001423,2025-12-09,10:24,547.2,67.2,CASH,Dine in,Completed,weekday
+O001424,2025-12-09,14:43,148.2,18.2,card,TAKEAWAY,Completed,weekday
+O001425,2025-12-09,11:09,307.8,37.8,card,Dine in,Completed,weekday
+O001426,2025-12-09,14:31,250.8,30.8,CASH,Dine in,Completed,weekday
+O001427,2025-12-09,10:28,205.2,25.2,card,Dine in,Completed,weekday
+O001428,2025-12-09,12:33,68.4,8.4,CASH,TAKEAWAY,Completed,weekday
+O001429,2025-12-09,12:11,239.4,29.4,CASH,TAKEAWAY,Completed,weekday
+O001430,2025-12-09,16:33,444.6,54.6,CASH,TAKEAWAY,Completed,weekday
+O001431,2025-12-09,13:33,250.8,30.8,card,Dine in,Completed,weekday
+O001432,2025-12-09,20:40,239.4,29.4,CASH,TAKEAWAY,Completed,weekday
+O001433,2025-12-10,22:40,364.8,44.8,card,TAKEAWAY,Completed,weekday
+O001434,2025-12-10,21:18,68.4,8.4,CASH,TAKEAWAY,Completed,weekday
+O001435,2025-12-10,17:22,404.7,49.7,card,TAKEAWAY,Completed,weekday
+O001436,2025-12-10,17:00,330.6,40.6,card,Dine in,Completed,weekday
+O001437,2025-12-10,19:33,114.0,14.0,CASH,Dine in,Completed,weekday
+O001438,2025-12-10,21:15,228.0,28.0,CASH,TAKEAWAY,Completed,weekday
+O001439,2025-12-10,17:26,364.8,44.8,,TAKEAWAY,Completed,weekday
+O001440,2025-12-10,18:21,85.5,10.5,card,TAKEAWAY,Completed,weekday
+O001441,2025-12-10,13:37,182.4,22.4,card,TAKEAWAY,Completed,weekday
+O001442,2025-12-10,20:14,136.8,16.8,card,Dine in,Completed,weekday
+O001443,2025-12-10,18:29,159.6,19.6,CASH,Dine in,Completed,weekday
+O001444,2025-12-10,19:59,387.6,47.6,CASH,TAKEAWAY,Completed,weekday
+O001445,2025-12-10,16:06,581.4,71.4,card,Dine in,Completed,weekday
+O001446,2025-12-10,16:53,592.8,72.8,CASH,Dine in,Completed,weekday
+O001447,2025-12-10,17:49,387.6,47.6,CASH,TAKEAWAY,Completed,weekday
+O001448,2025-12-10,22:08,752.4,92.4,card,Dine in,Completed,weekday
+O001449,2025-12-10,13:01,444.6,54.6,card,TAKEAWAY,Completed,weekday
+O001450,2025-12-10,16:51,262.2,32.2,card,Dine in,Completed,weekday
+O001451,2025-12-10,11:24,330.6,40.6,card,Dine in,Completed,weekday
+O001452,2025-12-10,10:19,250.8,30.8,CASH,Dine in,Completed,weekday
+O001453,2025-12-10,10:19,114.0,14.0,CASH,TAKEAWAY,Completed,weekday
+O001454,2025-12-10,11:53,393.3,48.3,CASH,Dine in,Completed,weekday
+O001455,2025-12-10,12:54,114.0,14.0,,Dine in,Completed,weekday
+O001456,2025-12-10,17:59,444.6,54.6,card,,Completed,weekday
+O001457,2025-12-10,12:38,399.0,49.0,card,Dine in,Completed,weekday
+O001458,2025-12-10,19:03,182.4,22.4,card,TAKEAWAY,Completed,weekday
+O001459,2025-12-10,10:09,319.2,39.2,CASH,,Completed,weekday
+O001460,2025-12-10,15:28,159.6,19.6,card,Dine in,Completed,weekday
+O001461,2025-12-10,15:31,148.2,18.2,CASH,TAKEAWAY,Completed,weekday
+O001462,2025-12-10,16:32,433.2,53.2,card,,Completed,weekday
+O001463,2025-12-10,12:16,296.4,36.4,CASH,Dine in,Completed,weekday
+O001464,2025-12-10,16:27,273.6,33.6,,TAKEAWAY,Completed,weekday
+O001465,2025-12-10,21:20,239.4,29.4,CASH,Dine in,Completed,weekday
+O001466,2025-12-10,20:18,205.2,25.2,,TAKEAWAY,Completed,weekday
+O001467,2025-12-10,11:34,319.2,39.2,CASH,TAKEAWAY,Completed,weekday
+O001468,2025-12-10,15:08,387.6,47.6,CASH,TAKEAWAY,Completed,weekday
+O001469,2025-12-10,21:55,285.0,35.0,card,Dine in,Completed,weekday
+O001470,2025-12-10,19:43,353.4,43.4,card,Dine in,Completed,weekday
+O001471,2025-12-10,14:50,296.4,36.4,card,TAKEAWAY,Completed,weekday
+O001472,2025-12-10,22:56,68.4,8.4,card,TAKEAWAY,Completed,weekday
+O001473,2025-12-11,22:37,501.6,61.6,,TAKEAWAY,Completed,Weekend
+O001474,2025-12-11,21:31,570.0,70.0,CASH,Dine in,Completed,Weekend
+O001475,2025-12-11,23:52,296.4,36.4,card,Dine in,Completed,Weekend
+O001476,2025-12-11,20:23,444.6,54.6,CASH,TAKEAWAY,Completed,Weekend
+O001477,2025-12-11,20:07,946.2,116.2,CASH,Dine in,Completed,Weekend
+O001478,2025-12-11,21:49,256.5,31.5,CASH,Dine in,Completed,Weekend
+O001479,2025-12-11,21:14,1140.0,140.0,CASH,Dine in,Completed,Weekend
+O001480,2025-12-11,19:19,763.8,93.8,card,TAKEAWAY,Completed,Weekend
+O001481,2025-12-11,22:37,604.2,74.2,CASH,TAKEAWAY,Completed,Weekend
+O001482,2025-12-11,22:38,695.4,85.4,CASH,Dine in,Completed,Weekend
+O001483,2025-12-11,18:55,547.2,67.2,CASH,Dine in,Completed,Weekend
+O001484,2025-12-11,20:16,456.0,56.0,CASH,Dine in,Completed,Weekend
+O001485,2025-12-11,20:30,467.4,57.4,CASH,TAKEAWAY,Completed,Weekend
+O001486,2025-12-11,20:14,609.9,74.9,,Dine in,Completed,Weekend
+O001487,2025-12-11,20:13,518.7,63.7,CASH,Dine in,Completed,Weekend
+O001488,2025-12-11,23:15,706.8,86.8,CASH,Dine in,Completed,Weekend
+O001489,2025-12-11,22:32,347.7,42.7,card,TAKEAWAY,Completed,Weekend
+O001490,2025-12-11,18:07,1026.0,126.0,CASH,TAKEAWAY,Completed,Weekend
+O001491,2025-12-11,20:00,638.4,78.4,,TAKEAWAY,Completed,Weekend
+O001492,2025-12-11,22:42,1174.2,144.2,CASH,TAKEAWAY,Completed,Weekend
+O001493,2025-12-11,21:25,570.0,70.0,CASH,Dine in,Completed,Weekend
+O001494,2025-12-11,20:43,490.2,60.2,CASH,TAKEAWAY,Completed,Weekend
+O001495,2025-12-11,22:51,1003.2,123.2,CASH,,Completed,Weekend
+O001496,2025-12-11,21:41,1003.2,123.2,CASH,Dine in,Completed,Weekend
+O001497,2025-12-11,21:47,524.4,64.4,,TAKEAWAY,Completed,Weekend
+O001498,2025-12-11,20:40,501.6,61.6,card,TAKEAWAY,Completed,Weekend
+O001499,2025-12-11,20:43,672.6,82.6,card,Dine in,Completed,Weekend
+O001500,2025-12-11,18:16,1008.9,123.9,CASH,TAKEAWAY,Completed,Weekend
+O001501,2025-12-11,18:26,513.0,63.0,card,TAKEAWAY,Completed,Weekend
+O001502,2025-12-11,18:30,940.5,115.5,CASH,Dine in,Completed,Weekend
+O001503,2025-12-11,22:03,558.6,68.6,card,Dine in,Completed,Weekend
+O001504,2025-12-11,18:03,1185.6,145.6,card,Dine in,Completed,Weekend
+O001505,2025-12-11,20:53,1054.5,129.5,card,Dine in,Completed,Weekend
+O001506,2025-12-11,21:36,1094.4,134.4,,,Completed,Weekend
+O001507,2025-12-11,20:02,1003.2,123.2,,Dine in,Completed,Weekend
+O001508,2025-12-11,22:16,199.5,24.5,card,Dine in,Completed,Weekend
+O001509,2025-12-11,20:15,1111.5,136.5,card,TAKEAWAY,Completed,Weekend
+O001510,2025-12-11,23:44,1191.3,146.3,card,Dine in,Completed,Weekend
+O001511,2025-12-11,22:35,342.0,42.0,CASH,,Completed,Weekend
+O001512,2025-12-11,19:17,815.1,100.1,CASH,TAKEAWAY,Completed,Weekend
+O001513,2025-12-11,20:08,1014.6,124.6,CASH,TAKEAWAY,Completed,Weekend
+O001514,2025-12-11,20:56,923.4,113.4,card,TAKEAWAY,Completed,Weekend
+O001515,2025-12-11,22:55,524.4,64.4,CASH,TAKEAWAY,Completed,Weekend
+O001516,2025-12-11,19:40,245.1,30.1,CASH,TAKEAWAY,Completed,Weekend
+O001517,2025-12-11,23:48,387.6,47.6,card,TAKEAWAY,Completed,Weekend
+O001518,2025-12-11,18:20,627.0,77.0,card,,Completed,Weekend
+O001519,2025-12-11,22:40,570.0,70.0,,TAKEAWAY,Completed,Weekend
+O001520,2025-12-11,19:28,558.6,68.6,card,TAKEAWAY,Completed,Weekend
+O001521,2025-12-11,20:44,575.7,70.7,card,Dine in,Completed,Weekend
+O001522,2025-12-11,21:57,1014.6,124.6,card,TAKEAWAY,Completed,Weekend
+O001523,2025-12-11,19:01,558.6,68.6,card,Dine in,Completed,Weekend
+O001524,2025-12-11,23:09,450.3,55.3,CASH,Dine in,Completed,Weekend
+O001525,2025-12-11,20:03,758.1,93.1,card,Dine in,Completed,Weekend
+O001526,2025-12-11,20:54,473.1,58.1,card,Dine in,Completed,Weekend
+O001527,2025-12-11,18:23,319.2,39.2,CASH,Dine in,Completed,Weekend
+O001528,2025-12-11,18:48,570.0,70.0,CASH,TAKEAWAY,Completed,Weekend
+O001529,2025-12-11,21:33,763.8,93.8,,Dine in,Completed,Weekend
+O001530,2025-12-11,22:13,478.8,58.8,card,Dine in,Completed,Weekend
+O001531,2025-12-11,19:48,832.2,102.2,CASH,Dine in,Completed,Weekend
+O001532,2025-12-11,21:23,792.3,97.3,CASH,,Completed,Weekend
+O001533,2025-12-11,19:55,535.8,65.8,card,Dine in,Completed,Weekend
+O001534,2025-12-11,22:53,900.6,110.6,CASH,Dine in,Completed,Weekend
+O001535,2025-12-11,19:39,638.4,78.4,CASH,Dine in,Completed,Weekend
+O001536,2025-12-11,23:08,741.0,91.0,CASH,Dine in,Completed,Weekend
+O001537,2025-12-11,19:38,900.6,110.6,card,,Completed,Weekend
+O001538,2025-12-11,22:03,513.0,63.0,card,TAKEAWAY,Completed,Weekend
+O001539,2025-12-11,19:32,661.2,81.2,card,Dine in,Completed,Weekend
+O001540,2025-12-11,20:05,1094.4,134.4,CASH,Dine in,Completed,Weekend
+O001541,2025-12-11,18:07,564.3,69.3,CASH,TAKEAWAY,Completed,Weekend
+O001542,2025-12-11,19:59,307.8,37.8,card,TAKEAWAY,Completed,Weekend
+O001543,2025-12-11,19:00,513.0,63.0,card,TAKEAWAY,Completed,Weekend
+O001544,2025-12-11,21:15,718.2,88.2,card,TAKEAWAY,Completed,Weekend
+O001545,2025-12-11,23:25,467.4,57.4,CASH,TAKEAWAY,Completed,Weekend
+O001546,2025-12-11,20:38,991.8,121.8,card,Dine in,Completed,Weekend
+O001547,2025-12-11,21:26,1060.2,130.2,CASH,Dine in,Completed,Weekend
+O001548,2025-12-11,20:32,495.9,60.9,card,Dine in,Completed,Weekend
+O001549,2025-12-11,23:01,775.2,95.2,card,Dine in,Completed,Weekend
+O001550,2025-12-11,22:15,501.6,61.6,card,TAKEAWAY,Completed,Weekend
+O001551,2025-12-11,18:52,912.0,112.0,card,Dine in,Completed,Weekend
+O001552,2025-12-11,19:35,444.6,54.6,CASH,TAKEAWAY,Completed,Weekend
+O001553,2025-12-11,20:23,934.8,114.8,card,Dine in,Completed,Weekend
+O001554,2025-12-11,20:20,1345.2,165.2,CASH,TAKEAWAY,Completed,Weekend
+O001555,2025-12-11,23:15,438.9,53.9,CASH,Dine in,Completed,Weekend
+O001556,2025-12-11,23:12,661.2,81.2,,Dine in,Completed,Weekend
+O001557,2025-12-11,19:24,649.8,79.8,CASH,TAKEAWAY,Completed,Weekend
+O001558,2025-12-11,23:51,798.0,98.0,card,Dine in,Completed,Weekend
+O001559,2025-12-11,23:53,843.6,103.6,,Dine in,Completed,Weekend
+O001560,2025-12-11,21:18,615.6,75.6,CASH,Dine in,Completed,Weekend
+O001561,2025-12-11,23:46,467.4,57.4,CASH,,Completed,Weekend
+O001562,2025-12-11,23:22,706.8,86.8,CASH,Dine in,Completed,Weekend
+O001563,2025-12-11,23:46,410.4,50.4,card,Dine in,Completed,Weekend
+O001564,2025-12-11,20:19,712.5,87.5,card,Dine in,Completed,Weekend
+O001565,2025-12-11,18:26,775.2,95.2,CASH,Dine in,Completed,Weekend
+O001566,2025-12-11,21:40,1043.1,128.1,CASH,TAKEAWAY,Completed,Weekend
+O001567,2025-12-11,21:04,706.8,86.8,CASH,TAKEAWAY,Completed,Weekend
+O001568,2025-12-11,18:58,741.0,91.0,CASH,Dine in,Completed,Weekend
+O001569,2025-12-11,22:29,718.2,88.2,CASH,Dine in,Completed,Weekend
+O001570,2025-12-11,18:41,319.2,39.2,CASH,Dine in,Completed,Weekend
+O001571,2025-12-11,20:26,974.7,119.7,CASH,Dine in,Completed,Weekend
+O001572,2025-12-11,19:20,273.6,33.6,CASH,Dine in,Completed,Weekend
+O001573,2025-12-11,22:16,501.6,61.6,CASH,Dine in,Completed,Weekend
+O001574,2025-12-12,18:04,148.2,18.2,CASH,Dine in,Completed,Weekend
+O001575,2025-12-12,18:52,1385.1,170.1,CASH,Dine in,Completed,Weekend
+O001576,2025-12-12,19:13,666.9,81.9,card,,Completed,Weekend
+O001577,2025-12-12,20:27,182.4,22.4,card,Dine in,Completed,Weekend
+O001578,2025-12-12,20:33,1140.0,140.0,card,Dine in,Completed,Weekend
+O001579,2025-12-12,22:05,775.2,95.2,card,,Completed,Weekend
+O001580,2025-12-12,22:39,547.2,67.2,CASH,Dine in,Completed,Weekend
+O001581,2025-12-12,20:32,615.6,75.6,card,TAKEAWAY,Completed,Weekend
+O001582,2025-12-12,23:19,438.9,53.9,CASH,Dine in,Completed,Weekend
+O001583,2025-12-12,21:00,410.4,50.4,CASH,Dine in,Completed,Weekend
+O001584,2025-12-12,19:14,649.8,79.8,card,TAKEAWAY,Completed,Weekend
+O001585,2025-12-12,23:38,849.3,104.3,card,Dine in,Completed,Weekend
+O001586,2025-12-12,20:35,467.4,57.4,card,Dine in,Completed,Weekend
+O001587,2025-12-12,18:30,581.4,71.4,CASH,TAKEAWAY,Completed,Weekend
+O001588,2025-12-12,22:19,501.6,61.6,card,,Completed,Weekend
+O001589,2025-12-12,19:32,1892.4,232.4,,Dine in,Completed,Weekend
+O001590,2025-12-12,18:13,393.3,48.3,CASH,TAKEAWAY,Completed,Weekend
+O001591,2025-12-12,20:59,706.8,86.8,CASH,Dine in,Completed,Weekend
+O001592,2025-12-12,23:29,957.6,117.6,card,Dine in,Completed,Weekend
+O001593,2025-12-12,20:52,330.6,40.6,card,Dine in,Completed,Weekend
+O001594,2025-12-12,22:20,672.6,82.6,card,TAKEAWAY,Completed,Weekend
+O001595,2025-12-12,20:38,672.6,82.6,CASH,Dine in,Completed,Weekend
+O001596,2025-12-12,19:06,433.2,53.2,CASH,TAKEAWAY,Completed,Weekend
+O001597,2025-12-12,23:38,421.8,51.8,,TAKEAWAY,Completed,Weekend
+O001598,2025-12-12,20:24,609.9,74.9,card,Dine in,Completed,Weekend
+O001599,2025-12-12,19:38,798.0,98.0,card,TAKEAWAY,Completed,Weekend
+O001600,2025-12-12,22:33,883.5,108.5,card,Dine in,Completed,Weekend
+O001601,2025-12-12,19:57,376.2,46.2,card,TAKEAWAY,Completed,Weekend
+O001602,2025-12-12,20:50,416.1,51.1,card,Dine in,Completed,Weekend
+O001603,2025-12-12,18:53,638.4,78.4,,Dine in,Completed,Weekend
+O001604,2025-12-12,18:16,741.0,91.0,,,Completed,Weekend
+O001605,2025-12-12,23:43,535.8,65.8,card,Dine in,Completed,Weekend
+O001606,2025-12-12,19:50,307.8,37.8,CASH,TAKEAWAY,Completed,Weekend
+O001607,2025-12-12,20:26,820.8,100.8,card,TAKEAWAY,Completed,Weekend
+O001608,2025-12-12,21:33,746.7,91.7,card,TAKEAWAY,Completed,Weekend
+O001609,2025-12-12,22:13,592.8,72.8,card,,Completed,Weekend
+O001610,2025-12-12,22:39,353.4,43.4,CASH,TAKEAWAY,Completed,Weekend
+O001611,2025-12-12,18:46,649.8,79.8,,TAKEAWAY,Completed,Weekend
+O001612,2025-12-12,18:52,672.6,82.6,CASH,TAKEAWAY,Completed,Weekend
+O001613,2025-12-12,19:01,541.5,66.5,CASH,,Completed,Weekend
+O001614,2025-12-12,21:52,490.2,60.2,card,TAKEAWAY,Completed,Weekend
+O001615,2025-12-12,19:39,547.2,67.2,,TAKEAWAY,Completed,Weekend
+O001616,2025-12-12,19:22,484.5,59.5,CASH,Dine in,Completed,Weekend
+O001617,2025-12-12,19:21,672.6,82.6,card,TAKEAWAY,Completed,Weekend
+O001618,2025-12-12,19:43,889.2,109.2,card,TAKEAWAY,Completed,Weekend
+O001619,2025-12-12,20:06,581.4,71.4,card,TAKEAWAY,Completed,Weekend
+O001620,2025-12-12,21:38,501.6,61.6,CASH,Dine in,Completed,Weekend
+O001621,2025-12-12,18:58,478.8,58.8,CASH,Dine in,Completed,Weekend
+O001622,2025-12-12,19:02,957.6,117.6,card,TAKEAWAY,Completed,Weekend
+O001623,2025-12-12,20:22,934.8,114.8,card,Dine in,Completed,Weekend
+O001624,2025-12-12,19:13,706.8,86.8,,TAKEAWAY,Completed,Weekend
+O001625,2025-12-12,20:23,706.8,86.8,CASH,Dine in,Completed,Weekend
+O001626,2025-12-12,19:24,758.1,93.1,,TAKEAWAY,Completed,Weekend
+O001627,2025-12-12,19:36,991.8,121.8,CASH,Dine in,Completed,Weekend
+O001628,2025-12-12,21:14,780.9,95.9,,Dine in,Completed,Weekend
+O001629,2025-12-12,22:29,581.4,71.4,card,Dine in,Completed,Weekend
+O001630,2025-12-12,20:27,803.7,98.7,,Dine in,Completed,Weekend
+O001631,2025-12-12,19:08,644.1,79.1,CASH,Dine in,Completed,Weekend
+O001632,2025-12-12,20:22,1687.2,207.2,card,Dine in,Completed,Weekend
+O001633,2025-12-12,19:03,672.6,82.6,,Dine in,Completed,Weekend
+O001634,2025-12-12,18:25,547.2,67.2,card,Dine in,Completed,Weekend
+O001635,2025-12-12,20:46,1003.2,123.2,card,Dine in,Completed,Weekend
+O001636,2025-12-12,21:14,558.6,68.6,,TAKEAWAY,Completed,Weekend
+O001637,2025-12-12,21:17,877.8,107.8,card,Dine in,Completed,Weekend
+O001638,2025-12-12,21:14,302.1,37.1,card,TAKEAWAY,Completed,Weekend
+O001639,2025-12-12,21:24,535.8,65.8,card,Dine in,Completed,Weekend
+O001640,2025-12-12,20:17,763.8,93.8,card,TAKEAWAY,Completed,Weekend
+O001641,2025-12-12,18:38,570.0,70.0,CASH,Dine in,Completed,Weekend
+O001642,2025-12-12,19:40,752.4,92.4,card,TAKEAWAY,Completed,Weekend
+O001643,2025-12-12,21:30,359.1,44.1,card,TAKEAWAY,Completed,Weekend
+O001644,2025-12-12,21:04,233.7,28.7,card,TAKEAWAY,Completed,Weekend
+O001645,2025-12-12,18:14,969.0,119.0,CASH,Dine in,Completed,Weekend
+O001646,2025-12-12,22:39,649.8,79.8,CASH,Dine in,Completed,Weekend
+O001647,2025-12-12,18:17,752.4,92.4,CASH,TAKEAWAY,Completed,Weekend
+O001648,2025-12-12,20:23,723.9,88.9,card,TAKEAWAY,Completed,Weekend
+O001649,2025-12-12,18:51,832.2,102.2,card,TAKEAWAY,Completed,Weekend
+O001650,2025-12-12,23:43,1949.4,239.4,card,Dine in,Completed,Weekend
+O001651,2025-12-12,19:55,364.8,44.8,CASH,,Completed,Weekend
+O001652,2025-12-12,19:50,1054.5,129.5,CASH,Dine in,Completed,Weekend
+O001653,2025-12-12,20:55,974.7,119.7,card,TAKEAWAY,Completed,Weekend
+O001654,2025-12-12,23:15,912.0,112.0,card,Dine in,Completed,Weekend
+O001655,2025-12-12,20:16,581.4,71.4,card,TAKEAWAY,Completed,Weekend
+O001656,2025-12-12,20:00,798.0,98.0,card,TAKEAWAY,Completed,Weekend
+O001657,2025-12-12,20:17,752.4,92.4,CASH,Dine in,Completed,Weekend
+O001658,2025-12-12,22:44,1003.2,123.2,card,,Completed,Weekend
+O001659,2025-12-12,20:44,735.3,90.3,CASH,Dine in,Completed,Weekend
+O001660,2025-12-12,23:38,729.6,89.6,card,TAKEAWAY,Completed,Weekend
+O001661,2025-12-12,20:25,262.2,32.2,CASH,TAKEAWAY,Completed,Weekend
+O001662,2025-12-12,22:29,427.5,52.5,CASH,TAKEAWAY,Completed,Weekend
+O001663,2025-12-12,23:44,706.8,86.8,card,,Completed,Weekend
+O001664,2025-12-12,19:47,661.2,81.2,CASH,TAKEAWAY,Completed,Weekend
+O001665,2025-12-12,21:21,627.0,77.0,CASH,Dine in,Completed,Weekend
+O001666,2025-12-12,20:42,689.7,84.7,card,Dine in,Completed,Weekend
+O001667,2025-12-12,18:30,672.6,82.6,CASH,Dine in,Completed,Weekend
+O001668,2025-12-12,21:50,649.8,79.8,card,Dine in,Completed,Weekend
+O001669,2025-12-12,20:29,1476.3,181.3,CASH,TAKEAWAY,Completed,Weekend
+O001670,2025-12-12,21:16,666.9,81.9,CASH,Dine in,Completed,Weekend
+O001671,2025-12-12,20:19,980.4,120.4,CASH,TAKEAWAY,Completed,Weekend
+O001672,2025-12-12,20:27,501.6,61.6,card,TAKEAWAY,Completed,Weekend
+O001673,2025-12-12,19:18,541.5,66.5,card,TAKEAWAY,Completed,Weekend
+O001674,2025-12-12,21:22,427.5,52.5,card,,Completed,Weekend
+O001675,2025-12-12,20:14,752.4,92.4,CASH,Dine in,Completed,Weekend
+O001676,2025-12-12,22:56,399.0,49.0,card,Dine in,Completed,Weekend
+O001677,2025-12-12,19:04,775.2,95.2,card,Dine in,Completed,Weekend
+O001678,2025-12-12,20:07,695.4,85.4,CASH,TAKEAWAY,Completed,Weekend
+O001679,2025-12-12,20:14,250.8,30.8,card,TAKEAWAY,Completed,Weekend
+O001680,2025-12-12,18:00,433.2,53.2,card,Dine in,Completed,Weekend
+O001681,2025-12-12,22:01,946.2,116.2,card,,Completed,Weekend
+O001682,2025-12-12,21:33,1117.2,137.2,card,Dine in,Completed,Weekend
+O001683,2025-12-12,20:10,592.8,72.8,card,Dine in,Completed,Weekend
+O001684,2025-12-12,20:44,1071.6,131.6,CASH,TAKEAWAY,Completed,Weekend
+O001685,2025-12-12,23:22,433.2,53.2,CASH,Dine in,Completed,Weekend
+O001686,2025-12-12,19:48,547.2,67.2,card,TAKEAWAY,Completed,Weekend
+O001687,2025-12-13,20:01,1003.2,123.2,CASH,,Completed,Weekend
+O001688,2025-12-13,19:50,581.4,71.4,CASH,,Completed,Weekend
+O001689,2025-12-13,22:44,1117.2,137.2,CASH,Dine in,Completed,Weekend
+O001690,2025-12-13,22:25,684.0,84.0,card,,Completed,Weekend
+O001691,2025-12-13,18:44,860.7,105.7,card,TAKEAWAY,Completed,Weekend
+O001692,2025-12-13,22:16,1083.0,133.0,,Dine in,Completed,Weekend
+O001693,2025-12-13,18:43,917.7,112.7,CASH,TAKEAWAY,Completed,Weekend
+O001694,2025-12-13,21:33,741.0,91.0,card,Dine in,Completed,Weekend
+O001695,2025-12-13,19:26,570.0,70.0,card,TAKEAWAY,Completed,Weekend
+O001696,2025-12-13,22:43,364.8,44.8,card,TAKEAWAY,Completed,Weekend
+O001697,2025-12-13,21:35,615.6,75.6,CASH,,Completed,Weekend
+O001698,2025-12-13,23:28,706.8,86.8,card,Dine in,Completed,Weekend
+O001699,2025-12-13,20:58,393.3,48.3,CASH,TAKEAWAY,Completed,Weekend
+O001700,2025-12-13,20:08,763.8,93.8,CASH,TAKEAWAY,Completed,Weekend
+O001701,2025-12-13,21:08,501.6,61.6,CASH,TAKEAWAY,Completed,Weekend
+O001702,2025-12-13,23:41,809.4,99.4,card,Dine in,Completed,Weekend
+O001703,2025-12-13,20:21,763.8,93.8,card,TAKEAWAY,Completed,Weekend
+O001704,2025-12-13,20:12,706.8,86.8,CASH,TAKEAWAY,Completed,Weekend
+O001705,2025-12-13,21:08,1162.8,142.8,card,Dine in,Completed,Weekend
+O001706,2025-12-13,18:15,324.9,39.9,card,Dine in,Completed,Weekend
+O001707,2025-12-13,22:22,775.2,95.2,CASH,TAKEAWAY,Completed,Weekend
+O001708,2025-12-13,18:37,1214.1,149.1,CASH,Dine in,Completed,Weekend
+O001709,2025-12-13,23:18,381.9,46.9,card,Dine in,Completed,Weekend
+O001710,2025-12-13,21:53,467.4,57.4,CASH,,Completed,Weekend
+O001711,2025-12-13,20:10,592.8,72.8,CASH,TAKEAWAY,Completed,Weekend
+O001712,2025-12-13,21:50,912.0,112.0,CASH,Dine in,Completed,Weekend
+O001713,2025-12-13,21:50,1111.5,136.5,CASH,,Completed,Weekend
+O001714,2025-12-13,20:42,638.4,78.4,card,TAKEAWAY,Completed,Weekend
+O001715,2025-12-13,23:03,763.8,93.8,CASH,Dine in,Completed,Weekend
+O001716,2025-12-13,23:43,558.6,68.6,CASH,TAKEAWAY,Completed,Weekend
+O001717,2025-12-13,22:13,649.8,79.8,CASH,Dine in,Completed,Weekend
+O001718,2025-12-13,18:17,866.4,106.4,CASH,Dine in,Completed,Weekend
+O001719,2025-12-13,21:08,957.6,117.6,CASH,Dine in,Completed,Weekend
+O001720,2025-12-13,20:57,581.4,71.4,card,Dine in,Completed,Weekend
+O001721,2025-12-13,21:36,741.0,91.0,CASH,TAKEAWAY,Completed,Weekend
+O001722,2025-12-13,18:30,1231.2,151.2,card,TAKEAWAY,Completed,Weekend
+O001723,2025-12-13,23:01,416.1,51.1,CASH,TAKEAWAY,Completed,Weekend
+O001724,2025-12-13,20:42,849.3,104.3,card,Dine in,Completed,Weekend
+O001725,2025-12-13,18:24,302.1,37.1,card,Dine in,Completed,Weekend
+O001726,2025-12-13,20:41,877.8,107.8,card,TAKEAWAY,Completed,Weekend
+O001727,2025-12-13,23:27,627.0,77.0,card,TAKEAWAY,Completed,Weekend
+O001728,2025-12-13,19:26,615.6,75.6,CASH,TAKEAWAY,Completed,Weekend
+O001729,2025-12-13,19:00,507.3,62.3,CASH,,Completed,Weekend
+O001730,2025-12-13,20:07,581.4,71.4,CASH,Dine in,Completed,Weekend
+O001731,2025-12-13,20:27,438.9,53.9,card,Dine in,Completed,Weekend
+O001732,2025-12-13,20:08,353.4,43.4,CASH,TAKEAWAY,Completed,Weekend
+O001733,2025-12-13,21:28,581.4,71.4,card,Dine in,Completed,Weekend
+O001734,2025-12-13,19:45,473.1,58.1,card,Dine in,Completed,Weekend
+O001735,2025-12-13,20:04,581.4,71.4,CASH,Dine in,Completed,Weekend
+O001736,2025-12-13,21:40,319.2,39.2,CASH,Dine in,Completed,Weekend
+O001737,2025-12-13,21:46,877.8,107.8,card,Dine in,Completed,Weekend
+O001738,2025-12-13,19:42,672.6,82.6,CASH,TAKEAWAY,Completed,Weekend
+O001739,2025-12-13,22:17,832.2,102.2,card,TAKEAWAY,Completed,Weekend
+O001740,2025-12-13,19:16,644.1,79.1,card,Dine in,Completed,Weekend
+O001741,2025-12-13,19:29,558.6,68.6,card,Dine in,Completed,Weekend
+O001742,2025-12-13,21:23,399.0,49.0,CASH,Dine in,Completed,Weekend
+O001743,2025-12-13,19:35,718.2,88.2,,Dine in,Completed,Weekend
+O001744,2025-12-13,18:44,387.6,47.6,card,TAKEAWAY,Completed,Weekend
+O001745,2025-12-13,22:15,330.6,40.6,CASH,Dine in,Completed,Weekend
+O001746,2025-12-13,22:32,456.0,56.0,CASH,TAKEAWAY,Completed,Weekend
+O001747,2025-12-13,18:23,752.4,92.4,card,TAKEAWAY,Completed,Weekend
+O001748,2025-12-13,21:56,1459.2,179.2,CASH,TAKEAWAY,Completed,Weekend
+O001749,2025-12-13,23:25,860.7,105.7,card,Dine in,Completed,Weekend
+O001750,2025-12-13,19:17,820.8,100.8,,Dine in,Completed,Weekend
+O001751,2025-12-13,20:29,581.4,71.4,CASH,TAKEAWAY,Completed,Weekend
+O001752,2025-12-13,20:32,524.4,64.4,CASH,Dine in,Completed,Weekend
+O001753,2025-12-13,22:21,758.1,93.1,,Dine in,Completed,Weekend
+O001754,2025-12-13,18:49,718.2,88.2,,Dine in,Completed,Weekend
+O001755,2025-12-13,22:16,763.8,93.8,card,Dine in,Completed,Weekend
+O001756,2025-12-13,18:35,319.2,39.2,CASH,TAKEAWAY,Completed,Weekend
+O001757,2025-12-13,21:12,934.8,114.8,card,Dine in,Completed,Weekend
+O001758,2025-12-13,18:28,849.3,104.3,CASH,Dine in,Completed,Weekend
+O001759,2025-12-13,18:24,729.6,89.6,CASH,TAKEAWAY,Completed,Weekend
+O001760,2025-12-13,21:15,456.0,56.0,CASH,TAKEAWAY,Completed,Weekend
+O001761,2025-12-13,20:08,535.8,65.8,CASH,TAKEAWAY,Completed,Weekend
+O001762,2025-12-13,19:36,376.2,46.2,card,Dine in,Completed,Weekend
+O001763,2025-12-13,18:43,855.0,105.0,card,Dine in,Completed,Weekend
+O001764,2025-12-13,22:33,729.6,89.6,CASH,Dine in,Completed,Weekend
+O001765,2025-12-13,22:26,758.1,93.1,CASH,TAKEAWAY,Completed,Weekend
+O001766,2025-12-13,19:01,1008.9,123.9,CASH,TAKEAWAY,Completed,Weekend
+O001767,2025-12-13,23:43,991.8,121.8,CASH,TAKEAWAY,Completed,Weekend
+O001768,2025-12-13,22:24,672.6,82.6,CASH,TAKEAWAY,Completed,Weekend
+O001769,2025-12-13,20:45,809.4,99.4,card,TAKEAWAY,Completed,Weekend
+O001770,2025-12-13,21:26,644.1,79.1,card,Dine in,Completed,Weekend
+O001771,2025-12-13,18:52,661.2,81.2,card,Dine in,Completed,Weekend
+O001772,2025-12-13,18:51,399.0,49.0,card,Dine in,Completed,Weekend
+O001773,2025-12-13,21:01,507.3,62.3,CASH,Dine in,Completed,Weekend
+O001774,2025-12-13,23:15,570.0,70.0,CASH,Dine in,Completed,Weekend
+O001775,2025-12-13,22:48,763.8,93.8,CASH,TAKEAWAY,Completed,Weekend
+O001776,2025-12-13,21:49,752.4,92.4,card,TAKEAWAY,Completed,Weekend
+O001777,2025-12-13,23:29,461.7,56.7,CASH,TAKEAWAY,Completed,Weekend
+O001778,2025-12-13,22:51,946.2,116.2,CASH,Dine in,Completed,Weekend
+O001779,2025-12-14,21:57,0.0,0.0,CASH,TAKEAWAY,Completed,weekday
+O001780,2025-12-14,11:12,456.0,56.0,CASH,Dine in,Completed,weekday
+O001781,2025-12-14,13:24,182.4,22.4,card,Dine in,Completed,weekday
+O001782,2025-12-14,14:36,364.8,44.8,CASH,TAKEAWAY,Completed,weekday
+O001783,2025-12-14,16:51,273.6,33.6,card,TAKEAWAY,Completed,weekday
+O001784,2025-12-14,12:03,0.0,0.0,card,TAKEAWAY,Completed,weekday
+O001785,2025-12-14,16:44,342.0,42.0,CASH,Dine in,Completed,weekday
+O001786,2025-12-14,17:49,330.6,40.6,CASH,Dine in,Completed,weekday
+O001787,2025-12-14,15:20,672.6,82.6,card,,Completed,weekday
+O001788,2025-12-14,14:55,444.6,54.6,card,TAKEAWAY,Completed,weekday
+O001789,2025-12-14,14:25,125.4,15.4,card,Dine in,Completed,weekday
+O001790,2025-12-14,22:33,296.4,36.4,CASH,TAKEAWAY,Completed,weekday
+O001791,2025-12-14,21:35,125.4,15.4,card,Dine in,Completed,weekday
+O001792,2025-12-14,12:46,513.0,63.0,card,Dine in,Completed,weekday
+O001793,2025-12-14,12:35,262.2,32.2,CASH,TAKEAWAY,Completed,weekday
+O001794,2025-12-14,12:15,114.0,14.0,card,Dine in,Completed,weekday
+O001795,2025-12-14,13:38,239.4,29.4,,Dine in,Completed,weekday
+O001796,2025-12-14,10:45,245.1,30.1,card,TAKEAWAY,Completed,weekday
+O001797,2025-12-14,21:21,182.4,22.4,card,Dine in,Completed,weekday
+O001798,2025-12-14,20:31,85.5,10.5,CASH,TAKEAWAY,Completed,weekday
+O001799,2025-12-14,21:18,376.2,46.2,card,TAKEAWAY,Completed,weekday
+O001800,2025-12-14,21:41,136.8,16.8,,TAKEAWAY,Completed,weekday
+O001801,2025-12-14,14:05,91.2,11.2,CASH,TAKEAWAY,Completed,weekday
+O001802,2025-12-14,17:48,250.8,30.8,CASH,TAKEAWAY,Completed,weekday
+O001803,2025-12-14,15:21,228.0,28.0,card,,Completed,weekday
+O001804,2025-12-14,12:22,381.9,46.9,CASH,TAKEAWAY,Completed,weekday
+O001805,2025-12-14,10:07,250.8,30.8,card,Dine in,Completed,weekday
+O001806,2025-12-14,14:51,353.4,43.4,CASH,TAKEAWAY,Completed,weekday
+O001807,2025-12-14,12:19,171.0,21.0,,Dine in,Completed,weekday
+O001808,2025-12-14,12:40,433.2,53.2,card,TAKEAWAY,Completed,weekday
+O001809,2025-12-14,16:26,199.5,24.5,card,Dine in,Completed,weekday
+O001810,2025-12-14,19:01,216.6,26.6,card,TAKEAWAY,Completed,weekday
+O001811,2025-12-14,16:15,193.8,23.8,CASH,,Completed,weekday
+O001812,2025-12-14,21:19,307.8,37.8,CASH,TAKEAWAY,Completed,weekday
+O001813,2025-12-14,17:47,102.6,12.6,,,Completed,weekday
+O001814,2025-12-14,20:39,364.8,44.8,CASH,Dine in,Completed,weekday
+O001815,2025-12-14,14:11,114.0,14.0,,TAKEAWAY,Completed,weekday
+O001816,2025-12-14,10:14,125.4,15.4,card,TAKEAWAY,Completed,weekday
+O001817,2025-12-14,12:45,239.4,29.4,CASH,TAKEAWAY,Completed,weekday
+O001818,2025-12-14,11:13,478.8,58.8,CASH,Dine in,Completed,weekday
+O001819,2025-12-15,17:35,399.0,49.0,,Dine in,Completed,weekday
+O001820,2025-12-15,18:20,387.6,47.6,card,TAKEAWAY,Completed,weekday
+O001821,2025-12-15,13:14,296.4,36.4,,Dine in,Completed,weekday
+O001822,2025-12-15,16:27,456.0,56.0,card,Dine in,Completed,weekday
+O001823,2025-12-15,21:15,501.6,61.6,CASH,Dine in,Completed,weekday
+O001824,2025-12-15,14:52,136.8,16.8,CASH,Dine in,Completed,weekday
+O001825,2025-12-15,12:01,661.2,81.2,,Dine in,Completed,weekday
+O001826,2025-12-15,18:27,85.5,10.5,CASH,Dine in,Completed,weekday
+O001827,2025-12-15,18:29,387.6,47.6,CASH,Dine in,Completed,weekday
+O001828,2025-12-15,17:35,478.8,58.8,card,TAKEAWAY,Completed,weekday
+O001829,2025-12-15,12:42,387.6,47.6,CASH,TAKEAWAY,Completed,weekday
+O001830,2025-12-15,11:02,478.8,58.8,card,,Completed,weekday
+O001831,2025-12-15,11:31,159.6,19.6,card,,Completed,weekday
+O001832,2025-12-15,11:05,342.0,42.0,card,TAKEAWAY,Completed,weekday
+O001833,2025-12-15,19:30,552.9,67.9,card,TAKEAWAY,Completed,weekday
+O001834,2025-12-15,12:49,319.2,39.2,CASH,TAKEAWAY,Completed,weekday
+O001835,2025-12-15,13:55,228.0,28.0,CASH,TAKEAWAY,Completed,weekday
+O001836,2025-12-15,22:37,62.7,7.7,card,,Completed,weekday
+O001837,2025-12-15,11:08,547.2,67.2,CASH,TAKEAWAY,Completed,weekday
+O001838,2025-12-15,22:06,159.6,19.6,card,Dine in,Completed,weekday
+O001839,2025-12-15,11:09,330.6,40.6,CASH,TAKEAWAY,Completed,weekday
+O001840,2025-12-15,14:47,273.6,33.6,CASH,TAKEAWAY,Completed,weekday
+O001841,2025-12-15,14:25,324.9,39.9,card,TAKEAWAY,Completed,weekday
+O001842,2025-12-15,20:10,0.0,0.0,,Dine in,Completed,weekday
+O001843,2025-12-15,11:30,444.6,54.6,card,TAKEAWAY,Completed,weekday
+O001844,2025-12-15,13:47,239.4,29.4,CASH,Dine in,Completed,weekday
+O001845,2025-12-15,13:44,0.0,0.0,card,TAKEAWAY,Completed,weekday
+O001846,2025-12-15,12:09,159.6,19.6,card,Dine in,Completed,weekday
+O001847,2025-12-15,12:23,399.0,49.0,CASH,Dine in,Completed,weekday
+O001848,2025-12-15,15:08,364.8,44.8,card,Dine in,Completed,weekday
+O001849,2025-12-15,12:56,199.5,24.5,CASH,Dine in,Completed,weekday
+O001850,2025-12-15,19:28,273.6,33.6,card,Dine in,Completed,weekday
+O001851,2025-12-15,20:44,239.4,29.4,card,Dine in,Completed,weekday
+O001852,2025-12-15,10:25,262.2,32.2,card,TAKEAWAY,Completed,weekday
+O001853,2025-12-15,12:55,245.1,30.1,card,TAKEAWAY,Completed,weekday
+O001854,2025-12-15,14:28,125.4,15.4,card,Dine in,Completed,weekday
+O001855,2025-12-15,16:11,114.0,14.0,card,TAKEAWAY,Completed,weekday
+O001856,2025-12-15,17:07,250.8,30.8,card,TAKEAWAY,Completed,weekday
+O001857,2025-12-15,21:47,102.6,12.6,card,Dine in,Completed,weekday
+O001858,2025-12-16,14:38,581.4,71.4,card,Dine in,Completed,weekday
+O001859,2025-12-16,16:39,68.4,8.4,card,Dine in,Completed,weekday
+O001860,2025-12-16,16:56,136.8,16.8,CASH,,Completed,weekday
+O001861,2025-12-16,15:45,250.8,30.8,,TAKEAWAY,Completed,weekday
+O001862,2025-12-16,12:38,376.2,46.2,CASH,Dine in,Completed,weekday
+O001863,2025-12-16,22:59,342.0,42.0,CASH,TAKEAWAY,Completed,weekday
+O001864,2025-12-16,16:27,216.6,26.6,,Dine in,Completed,weekday
+O001865,2025-12-16,14:04,68.4,8.4,,Dine in,Completed,weekday
+O001866,2025-12-16,19:59,342.0,42.0,CASH,TAKEAWAY,Completed,weekday
+O001867,2025-12-16,22:18,285.0,35.0,card,TAKEAWAY,Completed,weekday
+O001868,2025-12-16,20:56,205.2,25.2,card,Dine in,Completed,weekday
+O001869,2025-12-16,14:11,125.4,15.4,CASH,TAKEAWAY,Completed,weekday
+O001870,2025-12-16,14:22,85.5,10.5,card,TAKEAWAY,Completed,weekday
+O001871,2025-12-16,22:27,364.8,44.8,CASH,Dine in,Completed,weekday
+O001872,2025-12-16,16:35,296.4,36.4,card,TAKEAWAY,Completed,weekday
+O001873,2025-12-16,15:58,1065.9,130.9,card,Dine in,Completed,weekday
+O001874,2025-12-16,17:15,273.6,33.6,card,Dine in,Completed,weekday
+O001875,2025-12-16,17:43,296.4,36.4,CASH,TAKEAWAY,Completed,weekday
+O001876,2025-12-16,18:48,296.4,36.4,CASH,Dine in,Completed,weekday
+O001877,2025-12-16,18:58,570.0,70.0,CASH,TAKEAWAY,Completed,weekday
+O001878,2025-12-16,15:26,125.4,15.4,card,Dine in,Completed,weekday
+O001879,2025-12-16,12:41,661.2,81.2,CASH,TAKEAWAY,Completed,weekday
+O001880,2025-12-16,10:02,262.2,32.2,,Dine in,Completed,weekday
+O001881,2025-12-16,13:26,541.5,66.5,,Dine in,Completed,weekday
+O001882,2025-12-16,17:26,68.4,8.4,card,TAKEAWAY,Completed,weekday
+O001883,2025-12-16,18:12,0.0,0.0,,TAKEAWAY,Completed,weekday
+O001884,2025-12-16,14:05,262.2,32.2,CASH,Dine in,Completed,weekday
+O001885,2025-12-16,17:09,296.4,36.4,card,Dine in,Completed,weekday
+O001886,2025-12-16,20:46,410.4,50.4,card,TAKEAWAY,Completed,weekday
+O001887,2025-12-16,11:25,182.4,22.4,card,,Completed,weekday
+O001888,2025-12-16,20:49,410.4,50.4,CASH,TAKEAWAY,Completed,weekday
+O001889,2025-12-16,11:50,319.2,39.2,card,Dine in,Completed,weekday
+O001890,2025-12-16,17:51,159.6,19.6,card,TAKEAWAY,Completed,weekday
+O001891,2025-12-16,17:14,421.8,51.8,CASH,TAKEAWAY,Completed,weekday
+O001892,2025-12-16,12:35,296.4,36.4,CASH,TAKEAWAY,Completed,weekday
+O001893,2025-12-16,12:00,381.9,46.9,card,TAKEAWAY,Completed,weekday
+O001894,2025-12-16,14:35,296.4,36.4,,,Completed,weekday
+O001895,2025-12-16,21:43,125.4,15.4,card,TAKEAWAY,Completed,weekday
+O001896,2025-12-16,21:59,410.4,50.4,card,Dine in,Completed,weekday
+O001897,2025-12-17,22:36,114.0,14.0,card,Dine in,Completed,weekday
+O001898,2025-12-17,10:13,239.4,29.4,CASH,TAKEAWAY,Completed,weekday
+O001899,2025-12-17,10:12,364.8,44.8,card,Dine in,Completed,weekday
+O001900,2025-12-17,19:48,273.6,33.6,CASH,Dine in,Completed,weekday
+O001901,2025-12-17,13:09,182.4,22.4,CASH,TAKEAWAY,Completed,weekday
+O001902,2025-12-17,15:49,353.4,43.4,card,Dine in,Completed,weekday
+O001903,2025-12-17,21:44,273.6,33.6,CASH,Dine in,Completed,weekday
+O001904,2025-12-17,18:21,228.0,28.0,CASH,Dine in,Completed,weekday
+O001905,2025-12-17,20:24,478.8,58.8,CASH,TAKEAWAY,Completed,weekday
+O001906,2025-12-17,12:01,68.4,8.4,card,,Completed,weekday
+O001907,2025-12-17,18:04,290.7,35.7,card,TAKEAWAY,Completed,weekday
+O001908,2025-12-17,21:11,290.7,35.7,CASH,Dine in,Completed,weekday
+O001909,2025-12-17,10:34,239.4,29.4,CASH,,Completed,weekday
+O001910,2025-12-17,14:24,68.4,8.4,CASH,TAKEAWAY,Completed,weekday
+O001911,2025-12-17,18:48,205.2,25.2,CASH,Dine in,Completed,weekday
+O001912,2025-12-17,21:06,68.4,8.4,card,Dine in,Completed,weekday
+O001913,2025-12-17,12:02,296.4,36.4,card,TAKEAWAY,Completed,weekday
+O001914,2025-12-17,15:47,216.6,26.6,card,Dine in,Completed,weekday
+O001915,2025-12-17,14:48,136.8,16.8,card,,Completed,weekday
+O001916,2025-12-17,20:31,353.4,43.4,CASH,TAKEAWAY,Completed,weekday
+O001917,2025-12-17,19:00,171.0,21.0,card,Dine in,Completed,weekday
+O001918,2025-12-17,22:59,444.6,54.6,CASH,TAKEAWAY,Completed,weekday
+O001919,2025-12-17,15:05,262.2,32.2,CASH,TAKEAWAY,Completed,weekday
+O001920,2025-12-17,15:07,695.4,85.4,CASH,TAKEAWAY,Completed,weekday
+O001921,2025-12-17,12:30,433.2,53.2,card,TAKEAWAY,Completed,weekday
+O001922,2025-12-17,21:42,592.8,72.8,card,Dine in,Completed,weekday
+O001923,2025-12-17,14:27,342.0,42.0,card,TAKEAWAY,Completed,weekday
+O001924,2025-12-17,13:19,273.6,33.6,card,Dine in,Completed,weekday
+O001925,2025-12-17,11:51,250.8,30.8,CASH,TAKEAWAY,Completed,weekday
+O001926,2025-12-17,21:53,182.4,22.4,,Dine in,Completed,weekday
+O001927,2025-12-17,20:03,501.6,61.6,CASH,,Completed,weekday
+O001928,2025-12-17,21:26,353.4,43.4,CASH,Dine in,Completed,weekday
+O001929,2025-12-17,16:23,262.2,32.2,CASH,TAKEAWAY,Completed,weekday
+O001930,2025-12-17,18:04,182.4,22.4,card,TAKEAWAY,Completed,weekday
+O001931,2025-12-17,18:37,427.5,52.5,card,TAKEAWAY,Completed,weekday
+O001932,2025-12-17,13:25,672.6,82.6,,TAKEAWAY,Completed,weekday
+O001933,2025-12-17,22:27,171.0,21.0,CASH,Dine in,Completed,weekday
+O001934,2025-12-17,18:48,273.6,33.6,CASH,TAKEAWAY,Completed,weekday
+O001935,2025-12-17,13:34,262.2,32.2,CASH,,Completed,weekday
